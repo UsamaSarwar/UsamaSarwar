@@ -6,6 +6,7 @@
 - 😄 Pronouns: /’ue-saw-ma/
 - 🔭 I’m currently working on Artificial Intelligence and Machine Learning...
 - 🌱 I’m currently learning DataScience...
+- 💙 In relationship with Flutter
 - 🎓 COMSATS University Islamabad
 - 🔍 Find me on [Google "Usama Sarwar"](https://usamasarwar.me/)
 - ⚡ I convert coffee into <code\/>
