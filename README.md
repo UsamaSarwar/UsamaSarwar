@@ -9,5 +9,22 @@
 - 🎓 COMSATS University Islamabad
 - 🌱 Learning: I’m currently learning DataScience...
 - 🔭 Working: I’m currently working on Artificial Intelligence and Machine Learning...
-- 🔍 Write your review about me on Google ["Usama Sarwar"](https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,)
-- 💬 [Ask me](https://ask.fm/usamasarwarofficial) about anything...
+- 🔍 See what people are saying about me on Google ["Usama Sarwar"](https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,)
+- 💬 Wanna [ask](https://ask.fm/usamasarwarofficial) something?
+
+## Recent Projects ⚡
+### [NINA NEWS](https://ninanews.com/) | Iraqi National News Agency
+[![Website](https://img.shields.io/badge/Launch-WEB-ff1744?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/nina-news)
+[![Mobile](https://img.shields.io/badge/Run-APP-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/nina-news/releases/tag/v1.0.0)
+[![Source Code](https://img.shields.io/badge/Source_Code-GET-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/nina-news/)
+[![Flutter](https://img.shields.io/badge/Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+### [ideabook](https://usamasarwar.github.io/idea/) | Idea Sharing Platform
+[![Website](https://img.shields.io/badge/Launch-WEB-ff1744?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/idea/)
+[![Mobile](https://img.shields.io/badge/Run-APP-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=io.github.csusamasarwar.comsats)
+[![Flutter](https://img.shields.io/badge/Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+### [FlutterCapsule](http://usamasarwar.github.io/fluttercapsule/) | Flutter Developer Guide
+[![Website](https://img.shields.io/badge/Launch-WEB-ff1744?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GET-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule)
+[![Flutter](https://img.shields.io/badge/Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
