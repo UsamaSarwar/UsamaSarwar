@@ -21,20 +21,20 @@
 <br><br>
 
 <div align="center">
-<a href="https://usamasarwar.github.io">
-<img src="https://img.shields.io/badge/Usama_Sarwar-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://usama.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/usamasarwar/">
-<img src="https://img.shields.io/badge/Github-Follow-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<img src="https://img.shields.io/badge/Youtube-Subscribe-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Linkedin-Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://www.facebook.com/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/UsamaSarwarPro/">
-<img src="https://img.shields.io/badge/Twitter-Follow-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff"></a>
 <a href="https://ask.fm/usamasarwarofficial">
