@@ -53,6 +53,7 @@
 > Diseases never come with prior intimation. In real-world scenarios reporting such diseases is a real challenge. This challenge is completed by "Al-Shaafi"; an idea to automate the process of disease prediction and effective treatment. Through this app, you would be able to get one more way to properly medical checkups without visiting hospitals. We have developed an expert system named “Al-Shaafi” that provides medical facilities to the patients in the minimum possible time. This system may diagnose the patient. This diagnosis will inform the patients about their disease they are suffering from. This expert system also facilitates the patients in the treatment for the respective illness they are suffering with. In this system, a team of dedicated and expert doctors would be available if a patient needs medical consultancy. Emergency services like Ambulance and Rescue are available 24/7. This expert system also facilitates women in obstetrical and gynecological treatment. It has been observed that when the patient visits the doctor for the next time, the medical history of the patient is usually overlooked. Al-Shaafi provides the facility to record the patient's histories. This expert system virtually connects a patient to the doctor for medical consultancy.
 >`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
 <br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk) [![Website](https://img.shields.io/badge/Web-App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+
 ## Recent Projects ⚡
 
 >Assignmento<br>Tool that converts plain text to handwriting and exports the output as images or PDF files<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Made with Flutter](https://img.shields.io/badge/Made_with-JavaScript-f0db4f?logo=javascript&logoColor=ffffff)](https://flutter.dev)
@@ -61,9 +62,10 @@
 
 >AlphaRanker<br>Tool that ranks social media profiles in serach engines<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://alpharanker.com/) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=usamasarwar.alpharanker) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
-
 >MiniMax and Alpha-BetaPruning Simulator<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/project/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
+
 ### Open-Source Projects ✨
+
 >FlutterCapsule<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 >Nina News App<br>Iraqi National News Agency App<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/flutter_news_app) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app/releases/tag/v1.0.0) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
@@ -94,14 +96,20 @@
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 </div>
 <br>
-<div align="center">
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/Nominate_me_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white"/>
-</a>
-</div> 
 
+<div align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20"/>
+</div>
+<br>
+<div align="center">
+    <p align="center">GitHub Stats 📝</p>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark"/>
+</div>
+<br>
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 
-## Usama Sarwar's GitHub Stats 📝
-
-[![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark)](https://github.com/UsamaSarwar/github-readme-stats)
+<div align="center">
+<a href="https://stars.github.com/nominate/">
+    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white"/>
+</a>
+</div> 
