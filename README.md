@@ -17,7 +17,6 @@
 - 📱 (+92) 31 0000 777 3
 
 <br><br>
-
 <div align="center">
 <a href="https://usama.dev">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
