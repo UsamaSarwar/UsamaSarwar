@@ -1,7 +1,15 @@
-![Usama Sarwar](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar)
+<div align="center">  
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar)
+    
+</div>
+    
+<div align="center">  
+    
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
+</div>
+    
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
@@ -16,9 +24,13 @@
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 - 📱 (+92) 31 0000 777 3
 
-<br><br><br>
-
+<br><br>
 <div align="center">
+<a href="https://stars.github.com/nominate/">
+    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white"/>
+</a>
+<br><br>
+<p align="center"> Let's Connect 🔥</p>
 <a href="https://usama.dev">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/usamasarwar/">
@@ -46,7 +58,7 @@
 <a href="https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
-
+    
 ## Current Project ⚕
 
 >### AlShaafi | Corona Virus (COVID19) Detection App
@@ -76,12 +88,15 @@
 
 ## Global Contributions 💻
 
->**GetX Contributor**<br>Flutter's Package<br>[![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors)
+>**GetX Contributor**<br>Flutter's State Management Package<br>[![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors)
 
->**CSV Contributor**<br>[![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
+>**Agora Contributor**<br>Flutter's Video Calling Package<br>[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors)
 
+>**CSV Contributor**<br>Flutter's CSV Utility Package<br>[![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
+
+## Tools & Technology 🛠
 <div align="center">
-<p align="center">Tools & Technology 🛠</p>
+<!-- <p align="center"></p> -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -94,22 +109,20 @@
 <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<br><br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
 
-<div align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20"/>
+## GitHub Statistics 📈
+<div align="center">  
+
+[![Usama Sarwar Achievements](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&no-bg=true&no-frame=true&row=3&column=3)
+
 </div>
-<br>
 <div align="center">
-    <p align="center">GitHub Stats 📝</p>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark"/>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
+    
 </div>
-<br>
+<br><br>
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
-
-<div align="center">
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white"/>
-</a>
-</div> 
