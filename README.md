@@ -1,11 +1,14 @@
 <div align="center">  
-<img src="https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar" />
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) -->  
+    
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar" /> -->
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar)
+    
 </div> 
-<div align="center">  
+
+<div align="center">
     
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
-
+    
 </div>
     
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -113,12 +116,13 @@
 <br>
 
 ## GitHub Statistics 📈
+
 <div align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
 <!-- [![Usama Sarwar Achievements](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15) -->
 </div>
 <div align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
 </div>
 <br><br>
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
