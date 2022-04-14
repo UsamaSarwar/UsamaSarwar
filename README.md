@@ -1,27 +1,25 @@
-![.](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) ![Repos](https://badges.pufler.dev/repos/UsamaSarwar) ![Commits](https://badges.pufler.dev/commits/yearly/UsamaSarwar)
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) ![20+ Repos](https://badges.pufler.dev/repos/UsamaSarwar) ![50+ Commits](https://badges.pufler.dev/commits/yearly/UsamaSarwar) [![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_@UsamaSarwar-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
-### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
 - 😄 Pronouns me as `/ue-saw-ma/`
-- 🎓 COMSATS University Islamabad
-- 🏛 Senior Team Lead at Bytrix Technologies
-- 💻 Cross Platform App Developer
-- ⚡ Expert at developing eCommerce Solutions
+- 💻 Full-stack [Flutter](https://flutter.dev) Developer
+- ⚡ Empowering eCommerce Businesses
+- 🏛 Founder & CEO at [Alpharanker](https://alpharanker.com)
+- 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 📱 +923-1-0000-777-3
+---
 - 🌱 Learning **Data Science**
-- 🔭 Current Project: **AlShaafi** `AI & ML`
-- ☕️ Coffee Lover
-- 🇵🇰 Faisalabad, Punjab, Pakistan
-- 📱 (+92) 31 0000 777 3
+- 🔭 Exploring `ML` in `AI`
+- 💡 Community Projects [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303)
+  - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
+  - [Assignmento](https://assignmento.org) `Freelancing Platform`
+  - [Comsian Network](https://comsian.net) `COMSATS Alumni Network`
 
-<br><br>
-<div align="center">
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white"/>
-</a>
-<br><br>
+
 <p align="center"> Let's Connect 🔥</p>
 <a href="https://usama.dev">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
