@@ -1,4 +1,4 @@
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) ![20+ Repos](https://badges.pufler.dev/repos/UsamaSarwar) ![50+ Commits](https://badges.pufler.dev/commits/yearly/UsamaSarwar) [![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_@UsamaSarwar-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) ![20+ Repos](https://badges.pufler.dev/repos/UsamaSarwar) ![50+ Commits](https://badges.pufler.dev/commits/yearly/UsamaSarwar) [![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_@UsamaSarwar-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social"> <a href="https://camo.githubusercontent.com/86c05b026c8c04ca479773127cf6e20dcf6c6452baa06dda24e6353f6f16284c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75747562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7574756265266c6f676f436f6c6f723d666666666666"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
@@ -18,7 +18,6 @@
   - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
   - [Assignmento](https://assignmento.org) `Freelancing Platform`
   - [Comsian Network](https://comsian.net) `COMSATS Alumni Network`
-
 
 <p align="center"> Let's Connect 🔥</p>
 <a href="https://usama.dev">
@@ -48,7 +47,7 @@
 <a href="https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
-    
+
 ## Current Project ⚕
 
 >### AlShaafi | Corona Virus (COVID19) Detection App
@@ -111,6 +110,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
 <div align="center">  
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar"> <br><br> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
 <!-- [![Usama Sarwar Achievements](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15) -->
 </div>
