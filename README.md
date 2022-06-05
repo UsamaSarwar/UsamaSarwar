@@ -4,7 +4,7 @@
 
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
 - 😄 Pronouns me as `/ue-saw-ma/`
