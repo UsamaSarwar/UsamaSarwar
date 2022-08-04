@@ -9,19 +9,22 @@
 
 - 😄 Pronouns me as `/ue-saw-ma/`
 - 💻 Full-stack [Flutter](https://flutter.dev) Developer
+- 🌱 Learning **Data Science**
+- 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
 - 🏛 Founder & CEO at [Alpharanker](https://alpharanker.com)
 - 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 📱 +923-1-0000-777-3
 ---
-- 🌱 Learning **Data Science**
-- 🔭 Exploring `ML` in `AI`
-- 💡 Community Projects [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303)
-  - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
-  - [Assignmento](https://assignmento.org) `Freelancing Platform`
-  - [Comsian Network](https://comsian.net) `COMSATS Alumni Network`
+[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
+
+### 💡 Community Projects <p><a href="https://www.buymeacoffee.com/UsamaSarwar"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+- [Flutterism](https://flutterism.dev) `Flutter Dev Community`
+- [Assignmento](https://assignmento.org) `Freelancing Platform`
+- [Comsian Network](https://comsian.net) `COMSATS Alumni Network`
 
 <p align="center"> Let's Connect 🔥</p>
+<div align="center">
 <a href="https://usama.dev">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/usamasarwar/">
@@ -46,7 +49,7 @@
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303">
+<a href="https://www.buymeacoffee.com/UsamaSarwar">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
@@ -122,3 +125,6 @@
 <p align="left"> <img src="contribution.svg" alt="Usama Sarwar Contributions" /> </p>
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
+<div align="center"><br>
+<p><a href="https://www.buymeacoffee.com/UsamaSarwar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+</div>
