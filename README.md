@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
+<img align="right" alt="Developer Usama Sarwar" src="coding.gif" width="300"  />
 
 - 😄 Pronouns me as `/ue-saw-ma/`
 - 💻 Full-stack [Flutter](https://flutter.dev) Developer
@@ -118,4 +118,7 @@
 <!-- [![Usama Sarwar Achievements](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15) -->
 </div>
 <br><br>
+
+<p align="left"> <img src="contribution.svg" alt="Usama Sarwar Contributions" /> </p>
+
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
