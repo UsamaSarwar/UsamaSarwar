@@ -1,8 +1,12 @@
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) [![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social">
+<div align="center">
+
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social"> <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
-<a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
+[![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
+
+</div>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
