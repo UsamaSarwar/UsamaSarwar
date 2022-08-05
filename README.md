@@ -93,10 +93,13 @@
 > **MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
 
 ## Global Contributions 💻
+<center>
 
 | [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) | [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
-|---|---|---|
+|:---:|:---:|:---:|
 |Flutter's State Management Package|Flutter's Video Calling Package|Flutter's CSV Utility Package|
+
+</center>
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>
 
