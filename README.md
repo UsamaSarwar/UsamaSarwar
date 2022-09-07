@@ -142,9 +142,7 @@
 </div>
 <br>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/output/github-contribution-grid-snake.svg" alt="Usama Sarwar Contributions" /> </p>
-
-![snake gif](https://github.com/UsamaSarwar/UsamaSarwar/blob/output/github-contribution-grid-snake.gif)
+![Usama Sarwar Contributions](https://github.com/UsamaSarwar/UsamaSarwar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
