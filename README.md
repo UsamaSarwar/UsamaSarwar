@@ -144,6 +144,8 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/output/github-contribution-grid-snake.svg" alt="Usama Sarwar Contributions" /> </p>
 
+![snake gif](https://github.com/UsamaSarwar/UsamaSarwar/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
 <p><a href="https://www.buymeacoffee.com/UsamaSarwar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
