@@ -2,7 +2,7 @@
 
 ![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=UsamaSarwar.UsamaSarwar) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social"> <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
-[![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![cmd Contributor](https://img.shields.io/badge/CMD-Contributor-blue?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/cmd/graphs/contributors)  [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
+[![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![cmd Contributor](https://img.shields.io/badge/CMD-Contributor-blue?logo=hack-the-box&logoColor=ffffff)](https://pub.dev/packages/cmd)  [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) [![Telegram Contributor](https://img.shields.io/badge/Telegram-Contributor-blue?logo=hack-the-box&logoColor=ffffff)](https://pub.dev/packages/telegram)
 
 [![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
 
@@ -34,32 +34,32 @@
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
-<a href="https://usama.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://www.usama.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/usamasarwar/">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://www.facebook.com/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/UsamaSarwarPro/">
-<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
 <a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
-<img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
 <a href="https://ask.fm/usamasarwarofficial">
-<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
 <a href="mailto:UsamaSarwarOfficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/UsamaSarwarOfficial/">
-<img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
-<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
 <a href="https://www.buymeacoffee.com/UsamaSarwar">
-<img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
 <br><h2 align="center"> Community Projects 🚀</h2>
@@ -100,9 +100,13 @@
 
 <div align="center">
 
-[![CMD Contributor](https://img.shields.io/badge/CMD-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/cmd/graphs/contributors) | [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) | [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
-|:---:|:---:|:---:|:---:|
-|Flutter Command Line Tool|Flutter's State Management Package|Flutter's Video Calling Package|Flutter's CSV Utility Package|
+[![CMD Contributor](https://img.shields.io/badge/CMD-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![Telegram Contributor](https://img.shields.io/badge/Telegram-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) |
+|:---:|:---:|:---:|
+|Flutter Command Line Tool| Telegram Messaging for Flutter |Flutter's State Management Package|
+
+[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
+|:---:|:---:|
+|Flutter's Video Calling Package|Flutter's CSV Utility Package|
 
 </div>
 
@@ -110,18 +114,18 @@
 
 <div align="center">
 <!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=flat-square&logo=Adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
 <br><br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
