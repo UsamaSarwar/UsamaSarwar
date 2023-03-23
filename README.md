@@ -25,9 +25,9 @@
 ### 💡 Community Projects
 
 - [Assignmento](https://assignmento.org) `Freelancing Platform`
-- [Comsian Network](https://comsian.net) `Student Alumni Network`
 - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
 - [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
+- [Alpharanker](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
 - [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
 - [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
