@@ -41,13 +41,13 @@
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
-<a href="https://www.linkedin.com/in/UsamaSarwarOfficial/">
+<a href="https://www.linkedin.com/in/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/UsamaSarwarOfficial/">
+<a href="https://www.facebook.com/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/UsamaSarwarOfficial/">
+<a href="https://www.instagram.com/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
 <a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
 <a href="mailto:UsamaSarwarOfficial@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/UsamaSarwarOfficial/">
+<a href="https://m.me/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
