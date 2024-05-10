@@ -18,15 +18,17 @@
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
-- 🏛 Founder & CEO at [Alpharanker](https://alpharanker.com)
+- 🏛 Founder of [Alpharanker](https://alpharanker.com)
+- 🏛 Founder of [Connect](https://connect.usama.dev)
 - 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 📱 +923-1-0000-777-3
 
 ### 💡 Community Projects
-
+- [Connect](https://connect.usama.dev) `Social Freelancing Platform`
 - [World Latest News (WLN)](https://worldlatest.news) `Social News Platform`
 - [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
-- [Alpharanker](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
+- [Alpharanker](https://alpharanker.com) `Main SMM Provider`
+- [Alpharanker App](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
 - [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
 - [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
@@ -80,7 +82,7 @@
 
 <br><h2 align="center"> Recent Projects ⚡</h2>
 
-> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 > **Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
 
