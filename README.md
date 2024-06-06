@@ -18,8 +18,9 @@
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
-- 🏛 Founder of [Alpharanker](https://alpharanker.com)
+- 🏛 Founder of [World Latest News](https://worldlatest.news)
 - 🏛 Founder of [Connect](https://connect.usama.dev)
+- 🏛 Founder of [Alpharanker](https://alpharanker.com)
 - 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 📱 +923-1-0000-777-3
 
