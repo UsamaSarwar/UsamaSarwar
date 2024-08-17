@@ -4,12 +4,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social"> 
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/UsamaSarwar/fluttercapsule?style=social"> 
-<img alt="Subscribers" src="https://img.shields.io/youtube/views/jCbclWBV32o?style=social"></a>
-<a href="https://stackoverflow.com/users/11451336/username">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/UsamaSarwar/fluttercapsule?style=social"> <img alt="Subscribers" src="https://img.shields.io/youtube/views/jCbclWBV32o?style=social"></a>
+<a href="https://stackoverflow.com/users/11451336/usama-sarwar">
 <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/11451336?style=social"></a>
-
----
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
 [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
@@ -125,7 +122,7 @@ Corona Virus (COVID19) Detection App
 
 > **OpenListings**<br>Giveaways, Gifts & Free Classifieds Platform
 > 
-> [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https:openlistings.org)
+> [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
 > [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 > **Hotspot+**<br>Mobile App containing live streams from 250+ countries
@@ -152,12 +149,6 @@ Corona Virus (COVID19) Detection App
 > [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
 > [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=ffffff)](https://flutter.dev)
 
-> **FlutterCapsule**<br>Cheatsheet for Flutter Developers
-> 
-> [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/)
-> [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule)
-> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
 > **Weather Forecast**<br>Website for live weather broadcasting and weather prediction
 > 
 > [![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/)
@@ -174,6 +165,21 @@ Corona Virus (COVID19) Detection App
 > 
 > [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html)
 > [![Made with Flutter](https://img.shields.io/badge/PHP-02569B?logo=php&logoColor=ffffff)](https://www.php.net/)
+
+<br><h2 align="center"> Educational Projects 🏫</h2>
+
+> **Dart Tutorials**<br> 
+> Learn Dart with easy Codelabs
+>
+> [![Codelabs](https://img.shields.io/badge/Codelabs-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/dart-tutorials)
+> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
+> [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=ffffff)](https://flutter.dev)
+
+> **FlutterCapsule**<br>Cheatsheet for Flutter Developers
+> 
+> [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/)
+> [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 <br><h2 align="center"> Global Contributions 💻</h2>
 
