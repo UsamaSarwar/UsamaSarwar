@@ -2,7 +2,7 @@
 
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social"> 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social">
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/UsamaSarwar/fluttercapsule?style=social"> <img alt="Subscribers" src="https://img.shields.io/youtube/views/jCbclWBV32o?style=social"></a>
 <a href="https://stackoverflow.com/users/11451336/usama-sarwar">
@@ -24,36 +24,27 @@
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
+<img align="right" alt="Usama Sarwar" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/ue-saw-ma/`
-- 💻 Full-stack [Flutter](https://flutter.dev) Developer
+- 💻 Full-stack Flutter Developer
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
 - 🏛 Founder of [OpenListings](https://openlistings.org)
-- 🏛 Founder of [World Latest News](https://worldlatest.news)
 - 🏛 Founder of [Connect](https://connect.usama.dev)
-- 🏛 Founder of [Alpharanker](https://alpharanker.com)
-- 🎓 Graduated in Computer Science at
-  [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 🎓 Graduated in Computer Science at [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 💬 [+923-1-0000-777-3](https://wa.me/+923100007773)
 
 ### 💡 Community Projects
 
-- [OpenListings](https://openlistings.org)
-  `Giveaways, Gifts & Free Classifieds Platform`
+- [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
 - [Connect](https://connect.usama.dev) `Social Freelancing Platform`
-- [World Latest News (WLN)](https://worldlatest.news) `Social News Platform`
-- [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup)
-  `Free Discount Coupons and Offers`
+- [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
 - [Alpharanker](https://alpharanker.com) `Main SMM Provider`
-- [Alpharanker App](https://play.google.com/store/apps/details?id=dev.usama.alpharanker)
-  `Website and Social Media Profile SEO Booster`
-- [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
-  `Streaming • Broadcasting • News`
-- [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam)
-  `Scholar Talks • Quran • Hadees • Prayer Timings`
+- [Alpharanker App](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
+- [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
+- [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
 [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
 
