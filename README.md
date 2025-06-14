@@ -41,9 +41,9 @@
 - [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
 - [Connect](https://connect.usama.dev) `Social Freelancing Platform`
 - [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
-- [Alpharanker](https://alpharanker.com) `Main SMM Provider`
+- [SMM Panel Software](https://smm.usama.dev) `SMM Panel Software`
 - [Alpharanker App](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
-- [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
+- [ViralVideo App](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
 - [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
 [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
@@ -88,15 +88,6 @@ Giveaways, Gifts & Free Classifieds Platform
 >
 > <br>[![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
 > [![Website](<https://img.shields.io/badge/OpenListings-211F1F?logo=google-chrome&logoColor=ffffff>)](https://openlistings.org)
-
-### World Latest News (WLN)
-Social Media Network
-
-> <img align="right" alt="WLN News" src="images/assignmento_.gif" height="200" />
-> World Latest News (WLN) is a revolutionary social news platform that democratizes news reporting by empowering individuals worldwide to share firsthand stories and experiences, addressing the limitations of traditional media. With a focus on diversity, real-time reporting, community verification, and monetization for contributors, WLN aims to enrich global news coverage with authentic and relevant narratives while fostering an informed, inclusive, and engaged global community where information empowers rather than misleads. WLN envisions a world where information empowers rather than misleads, where news is authentic and relevant to all. As Journalists - we strive to live out and uphold the following values individually and as a collective self-discovery, growth, commitment, respect, empowerment, legacy and inclusivity.
->
-> <br>[![Website](<https://img.shields.io/badge/World_Latest_News_(WLN)-211F1F?logo=google-chrome&logoColor=ffffff>)](https://worldlatest.news)
-
 
 ### AlShaafi
 Corona Virus (COVID19) Detection App
