@@ -1,1 +1,101 @@
+# Jekyll Configuration for GitHub Pages
 theme: jekyll-theme-cayman
+
+# Site Settings
+title: "Usama Sarwar - Full-Stack Flutter Developer"
+description: "Professional Software Engineer expert at cross-platform Flutter App Development, Community Builder & Open Source Advocate empowering businesses through innovative technology solutions."
+url: "https://usamasarwar.github.io"
+baseurl: "/UsamaSarwar"
+
+# Author Information
+author:
+  name: "Usama Sarwar"
+  email: "contact@usama.dev"
+  twitter: "UsamaSarwarPro"
+  github: "UsamaSarwar"
+  linkedin: "UsamaSarwarPro"
+
+# Social Media
+social:
+  - title: "GitHub"
+    url: "https://github.com/UsamaSarwar"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/UsamaSarwarPro"
+  - title: "Twitter"
+    url: "https://twitter.com/UsamaSarwarPro"
+  - title: "YouTube"
+    url: "https://youtube.com/UsamaSarwar"
+
+# SEO Settings
+lang: en_US
+timezone: Asia/Karachi
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO Tag Settings
+seo:
+  type: Person
+  name: "Usama Sarwar"
+  links:
+    - "https://github.com/UsamaSarwar"
+    - "https://linkedin.com/in/UsamaSarwarPro"
+    - "https://twitter.com/UsamaSarwarPro"
+    - "https://usama.dev"
+
+# Analytics (uncomment and add your tracking ID)
+# google_analytics: G-XXXXXXXXXX
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - README.md
+
+# Include files
+include:
+  - _pages
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Usama Sarwar"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
+
+# Custom Variables
+show_downloads: false
+show_excerpts: true
+
+# GitHub Metadata
+repository: UsamaSarwar/UsamaSarwar
+github:
+  is_project_page: false
+  is_user_page: true

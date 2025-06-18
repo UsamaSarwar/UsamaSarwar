@@ -1,43 +1,38 @@
 <div align="center">
 
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/UsamaSarwar/fluttercapsule?style=social">
-<a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/UsamaSarwar/fluttercapsule?style=social"> <img alt="Subscribers" src="https://img.shields.io/youtube/views/jCbclWBV32o?style=social"></a>
-<a href="https://stackoverflow.com/users/11451336/usama-sarwar">
-<img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/11451336?style=social"></a>
 
-[![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
-[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
-[![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380)
-[![cmd Contributor](https://img.shields.io/badge/CMD-Contributor-blue?logo=hack-the-box&logoColor=ffffff)](https://pub.dev/packages/cmd)
-[![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors)
-[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors)
-[![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
-[![Telegram Contributor](https://img.shields.io/badge/Telegram-Contributor-blue?logo=hack-the-box&logoColor=ffffff)](https://pub.dev/packages/telegram)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&multiline=true&width=800&height=170&lines=Full-Stack+Flutter+Developer;Community+Builder+%26+Open+Source+Advocate;Programming+is+not+about+coding%2C;it's+about+fixing+real-world+challenges" alt="Typing SVG" />
 
-[![Nominate @UsamaSarwar as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@UsamaSarwar-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
-<a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UsamaSarwar&label=Profile%20views&color=9F7AEA&style=flat" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/UsamaSarwar?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/UsamaSarwar?style=social">
+</p>
 
 </div>
 
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+---
 
-<img align="right" alt="Usama Sarwar" src="images/coding.gif" width="300"/>
+# 🚀 Usama Sarwar
 
-- 😄 Pronouns me as `/ue-saw-ma/`
-- 💻 Full-stack Flutter Developer
-- 🌱 Learning **Data Science**
-- 🔭 Exploring `ML` in `AI`
-- ⚡ Empowering eCommerce Businesses
-- 🏛 Founder of [OpenListings](https://openlistings.org)
-- 🏛 Founder of [Connect](https://connect.usama.dev)
-- 🎓 Graduated in Computer Science at [COMSATS University Islamabad](https://www.comsats.edu.pk/)
-- 💬 [+923-1-0000-777-3](https://wa.me/+923100007773)
+<div align="left">
+<img align="right" alt="Coding" width="350" src="images/coding.gif" style="border-radius: 15px; margin-left: 20px;"/>
 
-### 💡 Community Projects
+```typescript
+const usama = {
+    pronouns: "he/him",
+    role: "Full-Stack Flutter Developer",
+    location: "Pakistan 🇵🇰",
+    learning: ["Data Science", "Machine Learning", "AI"],
+    focus: "Empowering eCommerce Businesses",
+    founded: ["OpenListings", "Connect", "AlShaafi"],
+    education: "Computer Science @ COMSATS University",
+    contact: "+923-1-0000-777-3",
+    motto: "Programming is not about coding, it's about fixing real-world challenges 🚀"
+};
+```
 
+<<<<<<< HEAD
 - [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
 - [Connect](https://connect.usama.dev) `Social Freelancing Platform`
 - [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
@@ -175,42 +170,236 @@ Corona Virus (COVID19) Detection App
 | [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                   Flutter's Video Calling Package                                                                                   |                                                                  Flutter's CSV Utility Package                                                                  |
+=======
+### 🌟 What I Do
+- 💻 **Full-Stack Development** - Creating scalable mobile & web applications
+- 🏗️ **Community Building** - Founded platforms serving 1M+ users globally
+- 🔬 **Innovation** - Exploring AI/ML integration in business solutions
+- 🌟 **Open Source** - Contributing to popular packages & frameworks
+- 📈 **Business Growth** - Helping startups & enterprises scale digitally
+>>>>>>> 984fd54 (beta v1)
 
 </div>
 
-<br><h2 align="center"> Tools & Technology 🛠</h2>
+<br clear="right"/>
+
+---
+
+## 🎯 Services & Expertise
 
 <div align="center">
-<!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=flat-square&logo=Adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-<br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
-<br>
 
-<br><h2 align="center"> GitHub Statistics 📈 </h2>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/flutter.png" width="80"/>
+<h4>Mobile Development</h4>
+<p>Cross-platform Flutter apps with native performance</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/react-native.png" width="80"/>
+<h4>Web Development</h4>
+<p>Modern responsive web applications & PWAs</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="80"/>
+<h4>AI Integration</h4>
+<p>Machine learning & AI-powered solutions</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/cloud.png" width="80"/>
+<h4>Cloud Solutions</h4>
+<p>Scalable backend & cloud infrastructure</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/api.png" width="80"/>
+<h4>API Development</h4>
+<p>RESTful APIs & microservices architecture</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/database.png" width="80"/>
+<h4>Database Design</h4>
+<p>Optimized database solutions & data modeling</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/consultation.png" width="80"/>
+<h4>Tech Consulting</h4>
+<p>Strategic technology guidance & architecture</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/collaboration.png" width="80"/>
+<h4>Team Leadership</h4>
+<p>Agile project management & team mentoring</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+<a href="https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code">
+<img src="https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+<a href="https://www.appbrewery.co/">
+<img src="https://img.shields.io/badge/Flutter_Developer-London_Certified-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a href="https://givemycertificate.com/verify/2011002321000380">
+<img src="https://img.shields.io/badge/Microsoft-Ambassador-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏆 Open Source Contributions
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
+
+| Packages | Description |
+| :--- | :---------- |
+| [![CMD Contributor](https://img.shields.io/badge/Contributor-CMD-9F7AEA?logo=flutter&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | Flutter Command Line Tool |
+| [![Telegram Contributor](https://img.shields.io/badge/Contributor-Telegram-9F7AEA?logo=telegram&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | Telegram Messaging for Flutter |
+| [![GetX Contributor](https://img.shields.io/badge/Contributor-GetX-9F7AEA?logo=flutter&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) | Flutter's State Management Package |
+| [![Agora Contributor](https://img.shields.io/badge/Contributor-Agora-9F7AEA?logo=webrtc&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | Flutter's Video Calling Package |
+| [![CSV Contributor](https://img.shields.io/badge/Contributor-CSV-9F7AEA?logo=microsoftexcel&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) | Flutter's CSV Utility Package |
+
 </div>
+
+---
+
+## � Let's Connect & Collaborate
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h3>Professional Network</h3>
+<a href="https://www.usama.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://github.com/usamasarwar/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/UsamaSarwarPro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/11451336/usama-sarwar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>Social Media</h3>
+<a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.twitter.com/UsamaSarwarPro/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/UsamaSarwarPro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/UsamaSarwarPro/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>Direct Contact</h3>
+<a href="mailto:contact@usama.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923100007773?text=%23Github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://m.me/UsamaSarwarPro/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>Support My Work</h3>
+<a href="https://www.buymeacoffee.com/UsamaSarwar"><img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://stars.github.com/nominate/"><img src="https://img.shields.io/badge/Nominate_GitHub_Star-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Featured Community Projects
+
+### OpenListings 🎁
+*Community-driven platform for free listings & opportunities*
+
+<div align="left">
+<img align="right" alt="OpenListings" src="https://openlistings.org/logo.png" width="200" style="max-width: 100%; height: auto;" />
+
+**Key Features:**
+- **Zero fees** - No commissions or charges
+- **Global reach** - Connecting communities worldwide  
+- **Diverse categories** - Services, Real Estate, Jobs, Vehicles & more
+- **Social impact** - Empowering freelancers and businesses
+- **Giveaways & gifts** - Community sharing platform
+
+[![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
+[![Website](https://img.shields.io/badge/OpenListings-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
+</div>
+
+<br clear="right"/>
+
+### Connect 💼
+*World's largest freelancing & crowdsourcing community*
+
+<div align="left">
+<img align="right" alt="Connect Platform" src="images/assignmento_.gif" width="200" style="max-width: 100%; height: auto;" />
+
+**Platform Highlights:**
+- **1M+ users** across 247+ countries & territories
+- **Full-service** - Development, Design, Marketing & more
+- **Direct connections** between freelancers & businesses
+- **Innovation-focused** - Advanced & inclusive platform
+- **Mission-driven** - Equal opportunities for all backgrounds
+
+[![Website](https://img.shields.io/badge/Connect-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://connect.usama.dev)
+</div>
+
+<br clear="right"/>
+
+### AlShaafi 🏥
+*AI-powered medical expert system for disease prediction & treatment*
+
+<div align="left">
+<img align="right" alt="Programming" src="images/coding.png" width="200" style="max-width: 100%; height: auto;" />
+
+**Core Features:**
+- **AI diagnosis** - Automated disease prediction
+- **Expert doctors** - 24/7 medical consultancy
+- **Emergency services** - Ambulance & rescue available
+- **Medical history** - Patient record management
+- **Specialized care** - Women's health services
+
+`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
+
+[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
+[![Website](https://img.shields.io/badge/AlShaafi_Medical_App-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+</div>
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&show_icons=true&theme=dark&title_color=9F7AEA&icon_color=9F7AEA&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&layout=compact&langs_count=8&theme=dark&title_color=9F7AEA&text_color=ffffff&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar&theme=dark&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+**"Programming is not about coding, it's about fixing real-world challenges"** �
+
+*Thank you for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.*
+
 <br>
 
-<p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
-<div align="center"><br>
-<p><a href="https://www.buymeacoffee.com/UsamaSarwar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+<p>Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰</p>
+
+<a href="https://www.buymeacoffee.com/UsamaSarwar"> 
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee" />
+</a>
+
 </div>
