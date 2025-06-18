@@ -32,7 +32,6 @@ const usama = {
 };
 ```
 
-<<<<<<< HEAD
 - [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
 - [Connect](https://connect.usama.dev) `Social Freelancing Platform`
 - [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
@@ -170,14 +169,6 @@ Corona Virus (COVID19) Detection App
 | [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                   Flutter's Video Calling Package                                                                                   |                                                                  Flutter's CSV Utility Package                                                                  |
-=======
-### 🌟 What I Do
-- 💻 **Full-Stack Development** - Creating scalable mobile & web applications
-- 🏗️ **Community Building** - Founded platforms serving 1M+ users globally
-- 🔬 **Innovation** - Exploring AI/ML integration in business solutions
-- 🌟 **Open Source** - Contributing to popular packages & frameworks
-- 📈 **Business Growth** - Helping startups & enterprises scale digitally
->>>>>>> 984fd54 (beta v1)
 
 </div>
 
