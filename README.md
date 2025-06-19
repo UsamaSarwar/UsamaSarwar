@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&multiline=true&width=800&height=170&lines=Full-Stack+Flutter+Developer;Community+Builder+%26+Open+Source+Advocate;Programming+is+not+about+coding%2C;it's+about+fixing+real-world+challenges" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&multiline=true&width=800&height=170&lines=Cross-Platform+Flutter+Developer;Community+Mentor+%26+Open+Source+Contributor;Programming+is+not+about+coding%2C;it's+about+solving+real-world+challenges." alt="USAMA SARWAR" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UsamaSarwar&label=Profile%20views&color=9F7AEA&style=flat" alt="Profile views" />
@@ -13,23 +12,24 @@
 
 ---
 
-# 🚀 Usama Sarwar
+# Usama Sarwar
 
 <div align="left">
 <img align="right" alt="Coding" width="350" src="images/coding.gif" style="border-radius: 15px; margin-left: 20px;"/>
 
-```typescript
-const usama = {
-    pronouns: "he/him",
-    role: "Full-Stack Flutter Developer",
-    location: "Pakistan 🇵🇰",
-    learning: ["Data Science", "Machine Learning", "AI"],
-    focus: "Empowering eCommerce Businesses",
-    founded: ["OpenListings", "Connect", "AlShaafi"],
-    education: "Computer Science @ COMSATS University",
-    contact: "+923-1-0000-777-3",
-    motto: "Programming is not about coding, it's about fixing real-world challenges 🚀"
-};
+```json
+{
+  "name": "Usama Sarwar",
+  "pronouns": "he/him",
+  "role": "Full-Stack Flutter Developer",
+  "location": "Pakistan 🇵🇰",
+  "learning": ["Data Science", "Machine Learning", "AI"],
+  "focus": "Empowering eCommerce Businesses",
+  "founded": ["OpenListings", "Connect", "AlShaafi"],
+  "education": "Computer Science @ COMSATS University",
+  "contact": "+923-1-0000-777-3",
+  "motto": "Programming is not about coding, it's about fixing real-world challenges 🚀"
+}
 ```
 
 - [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
