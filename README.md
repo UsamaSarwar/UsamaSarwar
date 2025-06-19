@@ -32,14 +32,6 @@
 }
 ```
 
-- [OpenListings](https://openlistings.org) `Giveaways, Gifts & Free Classifieds Platform`
-- [Connect](https://connect.usama.dev) `Social Freelancing Platform`
-- [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
-- [SMM Panel Software](https://smm.usama.dev) `SMM Panel Software`
-- [Alpharanker App](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
-- [ViralVideo App](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
-- [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
-
 [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
 
 <h2 align="center"> Let's Connect 🔥</h2>
@@ -58,121 +50,131 @@
 <img src="https://img.shields.io/badge/Twitter_(X)-08A0E9?style=flat-square&logo=X&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/UsamaSarwarPro/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
-<a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
-<img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
-<a href="https://ask.fm/usamasarwarofficial">
-<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
 <a href="mailto:contact@usama.dev">
 <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/UsamaSarwarPro/">
-<img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://www.buymeacoffee.com/UsamaSarwar">
-<img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
-<br><h2 align="center"> Community Projects 🚀</h2>
+---
 
-### OpenListings
-Giveaways, Gifts & Free Classifieds Platform
+## 💼 Portfolio & Projects
 
-> <img align="right" alt="OpenListings" src="https://openlistings.org/logo.png" height="200" />
-> OpenListings, a community-driven platform where you can freely list and discover an extensive range of products, services, and opportunities. Whether you're a business looking to showcase your products, a freelancer offering services, or someone simply looking to buy, sell, or give away items, OpenListings has you covered.Our platform features diverse categories including Services, Real Estate, Health & Beauty, Vehicles, Electronics, Arts & Crafts, and more. You can list anything from job postings, training sessions, and volunteer opportunities to real estate, vehicles, and handmade items—all without any commissions, charges, or fees. Founded by Usama Sarwar, OpenListings is sustained by the global community with a mission to make a positive impact on society. Freelancers and unemployed individuals can find jobs, businesses can access talent, and everyone can contribute by sharing or receiving giveaways and gifts. Support OpenListings by sharing it with those who may benefit, and join us in creating a world where opportunities are accessible to all. Let's work together for a global cause that empowers and connects communities.
->
-> <br>[![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
-> [![Website](<https://img.shields.io/badge/OpenListings-211F1F?logo=google-chrome&logoColor=ffffff>)](https://openlistings.org)
+### 🚀 Community Platforms
 
-### AlShaafi
-Corona Virus (COVID19) Detection App
+<div align="left">
+<img align="right" alt="OpenListings" src="https://openlistings.org/logo.png" height="150" />
 
-> <img align="right" alt="Programming" src="images/coding.png" height="200" />
-> Diseases never come with prior intimation. In real-world scenarios reporting such diseases is a real challenge. This challenge is completed by "Al-Shaafi"; an idea to automate the process of disease prediction and effective treatment. Through this app, you would be able to get one more way to properly medical checkups without visiting hospitals. We have developed an expert system named “Al-Shaafi” that provides medical facilities to the patients in the minimum possible time. This system may diagnose the patient. This diagnosis will inform the patients about their disease they are suffering from. This expert system also facilitates the patients in the treatment for the respective illness they are suffering with. In this system, a team of dedicated and expert doctors would be available if a patient needs medical consultancy. Emergency services like Ambulance and Rescue are available 24/7. This expert system also facilitates women in obstetrical and gynecological treatment. It has been observed that when the patient visits the doctor for the next time, the medical history of the patient is usually overlooked. Al-Shaafi provides the facility to record the patient's histories. This expert system virtually connects a patient to the doctor for medical consultancy.
->
->
-> `Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
-> 
-> [![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
-> [![Website](https://img.shields.io/badge/AlShaafi_Medical_App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+**OpenListings** - *Giveaways, Gifts & Free Classifieds Platform*
+> A community-driven platform where you can freely list and discover products, services, and opportunities. Zero commissions, global reach, diverse categories including Services, Real Estate, Health & Beauty, Vehicles, Electronics, and more. Empowering freelancers and businesses worldwide.
 
-<br><h2 align="center"> Recent Projects ⚡</h2>
-
-> **OpenListings**<br>Giveaways, Gifts & Free Classifieds Platform
-> 
-> [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
-> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **Hotspot+**<br>Mobile App containing live streams from 250+ countries
-> 
-> [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
-> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
-> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-<br><h2 align="center"> Open-Source Projects ✨</h2>
-
-> **cmd** (Flutter Dev Package)<br> 
-> The cmd package is a command line tool for Flutter Developers that is used to run the most common shell/bash commands via pre-built scripts.
->
-> [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/cmd)
-> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/tree/main/pub/cmd)
-> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
-> [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **telegram** (Flutter Package)<br> 
-> A simple and light weight utility for sending message via Telegram
->
-> [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/telegram)
-> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/tree/main/pub/telegram)
-> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
-> [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **Weather Forecast**<br>Website for live weather broadcasting and weather prediction
-> 
-> [![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/)
-> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/weather-forecast)
-> [![Made with Flutter](https://img.shields.io/badge/PHP-02569B?logo=php&logoColor=ffffff)](https://flutter.dev)
-
-> **Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler
-> 
-> [![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks/releases)
-> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks)
-> [![Made with Java](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
-
-> **MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
-> 
-> [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html)
-> [![Made with Flutter](https://img.shields.io/badge/PHP-02569B?logo=php&logoColor=ffffff)](https://www.php.net/)
-
-<br><h2 align="center"> Educational Projects 🏫</h2>
-
-> **Dart Tutorials**<br> 
-> Learn Dart with easy Codelabs
->
-> [![Codelabs](https://img.shields.io/badge/Codelabs-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/dart-tutorials)
-> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
-> [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **FlutterCapsule**<br>Cheatsheet for Flutter Developers
-> 
-> [![Website](https://img.shields.io/badge/Wesbite-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/)
-> [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule)
-> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-<br><h2 align="center"> Global Contributions 💻</h2>
-
-<div align="center">
-
-| [![CMD Contributor](https://img.shields.io/badge/CMD-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![Telegram Contributor](https://img.shields.io/badge/Telegram-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                        Flutter Command Line Tool                                                                         |                                                                           Telegram Messaging for Flutter                                                                           |                                                                   Flutter's State Management Package                                                                   |
-
-| [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                   Flutter's Video Calling Package                                                                                   |                                                                  Flutter's CSV Utility Package                                                                  |
-
+[![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
+[![Website](https://img.shields.io/badge/OpenListings-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
 </div>
 
 <br clear="right"/>
+
+<div align="left">
+<img align="right" alt="Connect Platform" src="images/assignmento_.gif" height="150" />
+
+**Connect** - *Social Freelancing Platform*
+> World's largest freelancing & crowdsourcing community with 1M+ users across 247+ countries. Full-service platform connecting freelancers and businesses for Development, Design, Marketing & more.
+
+[![Website](https://img.shields.io/badge/Connect-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://connect.usama.dev)
+[![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+</div>
+
+<br clear="right"/>
+
+### 🏥 Healthcare & AI
+
+<div align="left">
+<img align="right" alt="AlShaafi" src="images/coding.png" height="150" />
+
+**AlShaafi** - *AI-powered Medical Expert System*
+> Corona Virus (COVID19) Detection App with AI diagnosis, expert doctors available 24/7, emergency services, medical history management, and specialized women's health services.
+
+[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
+[![Website](https://img.shields.io/badge/AlShaafi-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+[![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?logo=tensorflow&logoColor=ffffff)](https://tensorflow.org)
+</div>
+
+<br clear="right"/>
+
+### 📱 Mobile Applications
+
+> **WhatsUp** - *Free Discount Coupons and Offers*
+> 
+> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.whatsup)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+> **ViralVideo (Hotspot+)** - *Streaming • Broadcasting • News*
+> 
+> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+> **Alpharanker** - *Website and Social Media Profile SEO Booster*
+> 
+> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.alpharanker)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+> **Bab ul Islam** - *Scholar Talks • Quran • Hadees • Prayer Timings*
+> 
+> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.babulislam)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+### 🌐 Web Applications
+
+> **SMM Panel Software** - *Social Media Marketing Panel*
+> 
+> [![Website](https://img.shields.io/badge/SMM_Panel-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://smm.usama.dev)
+> [![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=ffffff)](https://php.net)
+
+> **Weather Forecast** - *Live weather broadcasting and prediction*
+> 
+> [![Website](https://img.shields.io/badge/Weather_API-9F7AEA?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/weather-forecast)
+> [![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=ffffff)](https://php.net)
+
+> **MiniMax and Alpha-Beta Pruning Simulator** - *AI Algorithm Visualization*
+> 
+> [![Website](https://img.shields.io/badge/Simulator-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/minimax-simulator)
+
+### 🖥️ Desktop Applications
+
+> **Compiler Construction Building Blocks** - *Java Software for compiler development*
+> 
+> [![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=windows&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks/releases)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks)
+> [![Made with Java](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
+
+### 📦 Open Source Packages
+
+> **cmd** - *Flutter Dev Package for command line operations*
+> 
+> [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/cmd)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/tree/main/pub/cmd)
+> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
+
+> **telegram** - *Flutter Package for Telegram messaging*
+> 
+> [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/telegram)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/tree/main/pub/telegram)
+> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
+
+### 📚 Educational Resources
+
+> **Dart Tutorials** - *Learn Dart with easy Codelabs*
+> 
+> [![Codelabs](https://img.shields.io/badge/Codelabs-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/dart-tutorials)
+> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=ffffff)](https://dart.dev)
+
+> **FlutterCapsule** - *Cheatsheet for Flutter Developers*
+> 
+> [![Website](https://img.shields.io/badge/Website-9F7AEA?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/)
+> [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule)
+> [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 ---
 
@@ -260,7 +262,7 @@ Corona Virus (COVID19) Detection App
 
 ---
 
-## � Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -304,68 +306,6 @@ Corona Virus (COVID19) Detection App
 
 ---
 
-## 💼 Featured Community Projects
-
-### OpenListings 🎁
-*Community-driven platform for free listings & opportunities*
-
-<div align="left">
-<img align="right" alt="OpenListings" src="https://openlistings.org/logo.png" width="200" style="max-width: 100%; height: auto;" />
-
-**Key Features:**
-- **Zero fees** - No commissions or charges
-- **Global reach** - Connecting communities worldwide  
-- **Diverse categories** - Services, Real Estate, Jobs, Vehicles & more
-- **Social impact** - Empowering freelancers and businesses
-- **Giveaways & gifts** - Community sharing platform
-
-[![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
-[![Website](https://img.shields.io/badge/OpenListings-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
-</div>
-
-<br clear="right"/>
-
-### Connect 💼
-*World's largest freelancing & crowdsourcing community*
-
-<div align="left">
-<img align="right" alt="Connect Platform" src="images/assignmento_.gif" width="200" style="max-width: 100%; height: auto;" />
-
-**Platform Highlights:**
-- **1M+ users** across 247+ countries & territories
-- **Full-service** - Development, Design, Marketing & more
-- **Direct connections** between freelancers & businesses
-- **Innovation-focused** - Advanced & inclusive platform
-- **Mission-driven** - Equal opportunities for all backgrounds
-
-[![Website](https://img.shields.io/badge/Connect-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://connect.usama.dev)
-</div>
-
-<br clear="right"/>
-
-### AlShaafi 🏥
-*AI-powered medical expert system for disease prediction & treatment*
-
-<div align="left">
-<img align="right" alt="Programming" src="images/coding.png" width="200" style="max-width: 100%; height: auto;" />
-
-**Core Features:**
-- **AI diagnosis** - Automated disease prediction
-- **Expert doctors** - 24/7 medical consultancy
-- **Emergency services** - Ambulance & rescue available
-- **Medical history** - Patient record management
-- **Specialized care** - Women's health services
-
-`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
-
-[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
-[![Website](https://img.shields.io/badge/AlShaafi_Medical_App-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
-</div>
-
-<br clear="right"/>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -381,7 +321,7 @@ Corona Virus (COVID19) Detection App
 
 <div align="center">
 
-**"Programming is not about coding, it's about fixing real-world challenges"** �
+**"Programming is not about coding, it's about fixing real-world challenges"** 🚀
 
 *Thank you for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.*
 
