@@ -15,7 +15,7 @@
 # Usama Sarwar
 
 <div align="left">
-<img align="right" alt="Coding" width="350" src="images/coding.gif" style="border-radius: 15px; margin-left: 20px;"/>
+<!-- <img align="right" alt="Coding" width="350" src="images/coding.gif" style="border-radius: 15px; margin-left: 20px;"/> -->
 
 ```json
 {

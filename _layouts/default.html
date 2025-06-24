@@ -1,53 +1,26 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="en">
+
+<head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#9F7AEA">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <!-- SEO and Meta Tags -->
-    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usama Sarwar - Portfolio</title>
+    <meta http-equiv="refresh" content="0; url=./index.html">
+    <script>
+      // Immediate redirect for better UX
+      window.location.href = './index.html';
+    </script>
+    </head>
     
-    <!-- Favicon -->
-    <link rel="icon" href="{{ '/favicon.png' | relative_url }}" type="image/png" sizes="16x16">
-    <link rel="apple-touch-icon" href="{{ '/favicon.png' | relative_url }}">
+    <body>
+      <p>Redirecting to the new portfolio...</p>
+      <p>If you are not redirected automatically, <a href="./index.html">click here</a>.</p>
+    </body>
     
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
-    <!-- Custom Purple Theme Styles -->
+    </html>
+
     <style>
-      :root {
-        --primary-color: #9F7AEA;
-        --primary-dark: #805AD5;
-        --primary-light: #B794F6;
-        --accent-color: #E879F9;
-        --bg-color: #0D1117;
-        --surface-color: #161B22;
-        --text-color: #F7FAFC;
-        --text-muted: #A0AEC0;
-        --border-color: #21262D;
-      }
-    
-      .page-header {
-        background: linear-gradient(135deg, var(--primary-color), var(--accent-color)) !important;
-        padding: 5rem 6rem !important;
-      }
-    
-      .page-header .project-name {
-        color: white !important;
-        font-size: 3.25rem !important;
-        font-weight: bold !important;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
-      }
-    
-      .page-header .project-tagline {
-        color: rgba(255, 255, 255, 0.9) !important;
-        font-size: 1.25rem !important;
-        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3) !important;
-      }
-    
-      .main-content {
+      body {
         max-width: 100%;
         overflow-x: auto;
         background-color: var(--bg-color) !important;

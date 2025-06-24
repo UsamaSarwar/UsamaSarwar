@@ -1,0 +1,377 @@
+/* Custom CSS for Tailwind CSS Portfolio */
+
+/* Additional custom styles to complement Tailwind */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+/* Smooth scrolling for better UX */
+html {
+	scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: #1f2937;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #7c3aed;
+	border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #6b21a8;
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes slideUp {
+	from {
+		opacity: 0;
+		transform: translateY(20px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+@keyframes float {
+	0%,
+	100% {
+		transform: translateY(0px);
+	}
+	50% {
+		transform: translateY(-10px);
+	}
+}
+
+@keyframes pulse-slow {
+	0%,
+	100% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0.5;
+	}
+}
+
+@keyframes bounce-slow {
+	0%,
+	100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-10px);
+	}
+}
+
+/* Custom gradient text */
+.gradient-text {
+	background: linear-gradient(135deg, #7c3aed 0%, #a855f7 50%, #c084fc 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+/* Glass effect */
+.glass {
+	background: rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dark .glass {
+	background: rgba(0, 0, 0, 0.2);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Custom button hover effects */
+.btn-hover-grow {
+	transition: all 0.3s ease;
+}
+
+.btn-hover-grow:hover {
+	transform: scale(1.05);
+}
+
+/* Portfolio card hover effects */
+.portfolio-card {
+	transition: all 0.3s ease;
+}
+
+.portfolio-card:hover {
+	transform: translateY(-10px);
+}
+
+/* Service card hover effects */
+.service-card {
+	transition: all 0.3s ease;
+	position: relative;
+	overflow: hidden;
+}
+
+.service-card::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(90deg, transparent, #7c3aed, transparent);
+	transition: left 0.5s;
+}
+
+.service-card:hover::before {
+	left: 100%;
+}
+
+/* Text selection */
+::selection {
+	background-color: #7c3aed;
+	color: white;
+}
+
+::-moz-selection {
+	background-color: #7c3aed;
+	color: white;
+}
+
+/* Focus styles for accessibility */
+.focus-visible:focus {
+	outline: 2px solid #7c3aed;
+	outline-offset: 2px;
+}
+
+/* Custom loading animation */
+.loading {
+	position: relative;
+}
+
+.loading::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 20px;
+	height: 20px;
+	margin: -10px 0 0 -10px;
+	border: 2px solid #f3f3f3;
+	border-top: 2px solid #7c3aed;
+	border-radius: 50%;
+	animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+/* Mobile menu animation */
+.mobile-menu-enter {
+	animation: slideInFromTop 0.3s ease-out;
+}
+
+.mobile-menu-exit {
+	animation: slideOutToTop 0.3s ease-in;
+}
+
+@keyframes slideInFromTop {
+	from {
+		transform: translateY(-100%);
+		opacity: 0;
+	}
+	to {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes slideOutToTop {
+	from {
+		transform: translateY(0);
+		opacity: 1;
+	}
+	to {
+		transform: translateY(-100%);
+		opacity: 0;
+	}
+}
+
+/* Notification animations */
+.notification {
+	animation: slideInFromRight 0.3s ease-out;
+}
+
+@keyframes slideInFromRight {
+	from {
+		transform: translateX(100%);
+		opacity: 0;
+	}
+	to {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+/* Dark mode specific styles */
+.dark {
+	color-scheme: dark;
+}
+
+.dark .bg-white {
+	background-color: #1f2937;
+}
+
+.dark .text-gray-900 {
+	color: #f9fafb;
+}
+
+/* Custom utility classes */
+.text-shadow {
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.box-shadow-xl {
+	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.box-shadow-primary {
+	box-shadow: 0 10px 25px rgba(124, 58, 237, 0.3);
+}
+
+/* Responsive text sizing */
+@media (max-width: 640px) {
+	.text-responsive-lg {
+		font-size: 1.5rem;
+		line-height: 2rem;
+	}
+}
+
+@media (min-width: 640px) {
+	.text-responsive-lg {
+		font-size: 2rem;
+		line-height: 2.5rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	.text-responsive-lg {
+		font-size: 2.5rem;
+		line-height: 3rem;
+	}
+}
+
+/* Print styles */
+@media print {
+	.no-print {
+		display: none !important;
+	}
+
+	body {
+		background: white !important;
+		color: black !important;
+	}
+
+	.bg-gray-900,
+	.bg-gray-800 {
+		background: white !important;
+	}
+
+	.text-white,
+	.text-gray-300,
+	.text-gray-400 {
+		color: black !important;
+	}
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+	.bg-primary-600 {
+		background-color: #000000;
+	}
+
+	.text-primary-400 {
+		color: #000000;
+	}
+
+	.border-primary-500 {
+		border-color: #000000;
+	}
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
+
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+/* Custom form styles */
+.form-input:focus {
+	box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.1);
+	border-color: #7c3aed;
+}
+
+/* Custom link hover effects */
+.link-hover {
+	position: relative;
+}
+
+.link-hover::after {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 2px;
+	bottom: -2px;
+	left: 0;
+	background-color: #7c3aed;
+	transition: width 0.3s ease;
+}
+
+.link-hover:hover::after {
+	width: 100%;
+}
+
+/* Image lazy loading placeholder */
+.lazy-image {
+	background: linear-gradient(45deg, #f3f4f6, #e5e7eb);
+	background-size: 400% 400%;
+	animation: gradient-loading 1.5s ease infinite;
+}
+
+@keyframes gradient-loading {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

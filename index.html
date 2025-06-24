@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Primary SEO Meta Tags -->
+    <title>Usama Sarwar - Full-Stack Flutter Developer | Personal Brand Portfolio</title>
+    <meta name="title" content="Usama Sarwar - Full-Stack Flutter Developer | Personal Brand Portfolio">
+    <meta name="description"
+        content="Usama Sarwar - Professional Software Engineer specializing in Flutter development, AI integration, and open-source contributions. Building innovative solutions that empower businesses globally.">
+    <meta name="keywords"
+        content="Usama Sarwar, Flutter Developer, Mobile App Development, Cross-Platform Apps, Full-Stack Developer, Open Source, Pakistan Developer, Software Engineer, Personal Brand">
+    <meta name="author" content="Usama Sarwar">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://usamasarwar.github.io/UsamaSarwar/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://usamasarwar.github.io/UsamaSarwar/">
+    <meta property="og:title" content="Usama Sarwar - Full-Stack Flutter Developer">
+    <meta property="og:description"
+        content="Professional Software Engineer specializing in Flutter development, AI integration, and open-source contributions.">
+    <meta property="og:image" content="https://usama.dev/UsamaSarwar.png">
+    <meta property="og:site_name" content="Usama Sarwar Portfolio">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://usamasarwar.github.io/UsamaSarwar/">
+    <meta property="twitter:title" content="Usama Sarwar - Full-Stack Flutter Developer">
+    <meta property="twitter:description"
+        content="Professional Software Engineer specializing in Flutter development, AI integration, and open-source contributions.">
+    <meta property="twitter:image" content="https://usama.dev/UsamaSarwar.png">
+    <meta property="twitter:creator" content="@UsamaSarwarPro">
+
+    <!-- Theme and App Meta -->
+    <meta name="theme-color" content="#7c3aed">
+    <meta name="msapplication-TileColor" content="#7c3aed">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="apple-touch-icon" href="favicon.png">
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Tailwind Configuration -->
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'inter': ['Inter', 'sans-serif'],
+                        'mono': ['JetBrains Mono', 'monospace']
+                    },
+                    colors: {
+                        primary: {
+                            50: '#faf5ff',
+                            100: '#f3e8ff',
+                            200: '#e9d5ff',
+                            300: '#d8b4fe',
+                            400: '#c084fc',
+                            500: '#a855f7',
+                            600: '#9333ea',
+                            700: '#7c3aed',
+                            800: '#6b21a8',
+                            900: '#581c87'
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-in-out',
+                        'slide-up': 'slideUp 0.5s ease-out',
+                        'bounce-slow': 'bounce 2s infinite',
+                        'pulse-slow': 'pulse 3s infinite',
+                        'float': 'float 6s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' }
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(20px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' }
+                        },
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Usama Sarwar",
+        "url": "https://usamasarwar.github.io/UsamaSarwar/",
+        "image": "https://usama.dev/UsamaSarwar.png",
+        "jobTitle": "Full-Stack Flutter Developer",
+        "description": "Professional Software Engineer specializing in Flutter development, AI integration, and open-source contributions.",
+        "email": "contact@usama.dev",
+        "telephone": "+923100007773",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Pakistan"
+        },
+        "sameAs": [
+            "https://github.com/UsamaSarwar",
+            "https://linkedin.com/in/UsamaSarwarPro",
+            "https://twitter.com/UsamaSarwarPro",
+            "https://youtube.com/UsamaSarwar",
+            "https://instagram.com/UsamaSarwarPro",
+            "https://facebook.com/UsamaSarwarPro",
+            "https://usama.dev"
+        ],
+        "knowsAbout": [
+            "Flutter Development",
+            "Mobile App Development",
+            "Cross-Platform Development",
+            "Web Development",
+            "AI Integration",
+            "Machine Learning",
+            "Open Source Development"
+        ]
+    }
+    </script>
+</head>
+
+<body class="bg-gray-900 text-white font-inter antialiased dark">
+    <!-- Navigation -->
+    <nav id="navbar"
+        class="fixed top-0 w-full z-50 transition-all duration-300 bg-gray-900/80 backdrop-blur-md border-b border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <!-- Logo -->
+                <div class="flex-shrink-0">
+                    <a href="#home" class="text-xl font-bold text-white hover:text-primary-400 transition-colors">
+                        <i class="fas fa-code text-primary-500 mr-2"></i>
+                        Usama Sarwar
+                    </a>
+                </div>
+
+                <!-- Desktop Navigation -->
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="#home"
+                            class="nav-link text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Home</a>
+                        <a href="#about"
+                            class="nav-link text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">About</a>
+                        <a href="#portfolio"
+                            class="nav-link text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Portfolio</a>
+                        <a href="#services"
+                            class="nav-link text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Services</a>
+                        <a href="#contact"
+                            class="nav-link text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Contact</a>
+                    </div>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden">
+                    <button id="mobile-menu-button"
+                        class="p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary-500">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile menu -->
+        <div id="mobile-menu" class="md:hidden hidden">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-gray-800">
+                <a href="#home"
+                    class="mobile-nav-link block px-3 py-2 text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 rounded-md">Home</a>
+                <a href="#about"
+                    class="mobile-nav-link block px-3 py-2 text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 rounded-md">About</a>
+                <a href="#portfolio"
+                    class="mobile-nav-link block px-3 py-2 text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 rounded-md">Portfolio</a>
+                <a href="#services"
+                    class="mobile-nav-link block px-3 py-2 text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 rounded-md">Services</a>
+                <a href="#contact"
+                    class="mobile-nav-link block px-3 py-2 text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 rounded-md">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="min-h-screen flex items-center justify-center relative overflow-hidden">
+        <!-- Animated Background -->
+        <div class="absolute inset-0 bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900">
+            <div class="absolute inset-0 bg-black/50"></div>
+            <div class="absolute top-1/4 left-1/4 w-72 h-72 bg-primary-600/20 rounded-full blur-3xl animate-pulse-slow">
+            </div>
+            <div class="absolute bottom-1/4 right-1/4 w-96 h-96 bg-purple-600/20 rounded-full blur-3xl animate-pulse-slow"
+                style="animation-delay: 2s"></div>
+        </div>
+
+        <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <!-- Hero Content -->
+                <div class="text-center lg:text-left animate-fade-in">
+                    <div class="mb-6">
+                        <span
+                            class="inline-block px-4 py-2 bg-primary-600/20 text-primary-300 rounded-full text-sm font-medium mb-4 animate-slide-up">
+                            <i class="fas fa-rocket mr-2"></i>
+                            Available for Projects
+                        </span>
+                        <h1 class="text-4xl sm:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+                            Hi, I'm <span
+                                class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Usama</span>
+                        </h1>
+                        <p class="text-xl sm:text-2xl text-gray-300 mb-4">Full-Stack Flutter Developer</p>
+                        <p class="text-lg text-gray-400 max-w-2xl mx-auto lg:mx-0">
+                            Building innovative solutions with Flutter, AI integration, and modern web technologies.
+                            Passionate about creating impactful digital experiences.
+                        </p>
+                    </div>
+
+                    <!-- CTA Buttons -->
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
+                        <a href="#portfolio"
+                            class="px-8 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-primary-500/25">
+                            <i class="fas fa-folder-open mr-2"></i>View Portfolio
+                        </a>
+                        <a href="#contact"
+                            class="px-8 py-3 border-2 border-primary-600 text-primary-400 hover:bg-primary-600 hover:text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105">
+                            <i class="fas fa-envelope mr-2"></i>Get In Touch
+                        </a>
+                    </div>
+
+                    <!-- Social Links -->
+                    <div class="flex justify-center lg:justify-start space-x-6">
+                        <a href="https://github.com/UsamaSarwar" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+                            <i class="fab fa-github text-2xl"></i>
+                        </a>
+                        <a href="https://linkedin.com/in/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+                            <i class="fab fa-linkedin text-2xl"></i>
+                        </a>
+                        <a href="https://twitter.com/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+                            <i class="fab fa-twitter text-2xl"></i>
+                        </a>
+                        <a href="https://youtube.com/UsamaSarwar" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+                            <i class="fab fa-youtube text-2xl"></i>
+                        </a>
+                        <a href="https://instagram.com/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+                            <i class="fab fa-instagram text-2xl"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Hero Image -->
+                <div class="relative flex justify-center lg:justify-end animate-float">
+                    <div class="relative">
+                        <div
+                            class="w-72 h-72 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-primary-500/30 shadow-2xl shadow-primary-500/20">
+                            <img src="https://www.usama.dev/UsamaSarwar.png" alt="Usama Sarwar"
+                                class="w-full h-full object-cover">
+                        </div>
+                        <div
+                            class="absolute -top-4 -right-4 w-24 h-24 bg-primary-600/20 rounded-full blur-xl animate-pulse">
+                        </div>
+                        <div class="absolute -bottom-4 -left-4 w-32 h-32 bg-purple-600/20 rounded-full blur-xl animate-pulse"
+                            style="animation-delay: 1s"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Scroll Indicator -->
+        <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce-slow">
+            <a href="#about" class="text-gray-400 hover:text-white transition-colors">
+                <i class="fas fa-chevron-down text-2xl"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-20 bg-gray-800/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl sm:text-4xl font-bold mb-4">About <span
+                        class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Me</span>
+                </h2>
+                <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+                    Passionate about creating innovative solutions that make a difference
+                </p>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <!-- About Content -->
+                <div class="space-y-6">
+                    <p class="text-lg text-gray-300 leading-relaxed">
+                        I'm a dedicated Full-Stack Flutter Developer with a passion for building cross-platform
+                        applications
+                        that deliver exceptional user experiences. With expertise in mobile development, web
+                        technologies,
+                        and AI integration, I help businesses bring their digital visions to life.
+                    </p>
+
+                    <p class="text-lg text-gray-300 leading-relaxed">
+                        My journey in software development has led me to work on diverse projects ranging from
+                        healthcare
+                        applications to e-commerce platforms, always focusing on clean code, scalable architecture,
+                        and user-centric design.
+                    </p>
+
+                    <!-- Skills -->
+                    <div class="grid grid-cols-2 gap-4 mt-8">
+                        <div class="space-y-3">
+                            <div class="flex items-center space-x-3">
+                                <i class="fab fa-flutter text-primary-500"></i>
+                                <span>Flutter Development</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <i class="fab fa-react text-primary-500"></i>
+                                <span>React & Next.js</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <i class="fab fa-node-js text-primary-500"></i>
+                                <span>Node.js & Express</span>
+                            </div>
+                        </div>
+                        <div class="space-y-3">
+                            <div class="flex items-center space-x-3">
+                                <i class="fas fa-brain text-primary-500"></i>
+                                <span>AI Integration</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <i class="fas fa-cloud text-primary-500"></i>
+                                <span>Cloud Solutions</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <i class="fas fa-mobile-alt text-primary-500"></i>
+                                <span>Mobile Apps</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stats -->
+                <div class="grid grid-cols-2 gap-6">
+                    <div
+                        class="text-center p-6 bg-gray-800/80 rounded-xl backdrop-blur-sm border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                        <div class="text-3xl font-bold text-primary-400 mb-2" data-count="50">0</div>
+                        <div class="text-gray-400">Projects Completed</div>
+                    </div>
+                    <div
+                        class="text-center p-6 bg-gray-800/80 rounded-xl backdrop-blur-sm border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                        <div class="text-3xl font-bold text-primary-400 mb-2" data-count="11">0</div>
+                        <div class="text-gray-400">Years Experience</div>
+                    </div>
+                    <div
+                        class="text-center p-6 bg-gray-800/80 rounded-xl backdrop-blur-sm border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                        <div class="text-3xl font-bold text-primary-400 mb-2" data-count="30">0</div>
+                        <div class="text-gray-400">Happy Clients</div>
+                    </div>
+                    <div
+                        class="text-center p-6 bg-gray-800/80 rounded-xl backdrop-blur-sm border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                        <div class="text-3xl font-bold text-primary-400 mb-2" data-count="100">0</div>
+                        <div class="text-gray-400">GitHub Stars</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="py-20 bg-gray-900">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl sm:text-4xl font-bold mb-4">My <span
+                        class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Portfolio</span>
+                </h2>
+                <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+                    A showcase of my recent projects and innovations
+                </p>
+            </div>
+
+            <!-- Portfolio Filter -->
+            <div class="flex flex-wrap justify-center mb-12 space-x-2 space-y-2">
+                <button class="portfolio-filter active px-6 py-2 rounded-full bg-primary-600 text-white font-medium"
+                    data-filter="all">All</button>
+                <button
+                    class="portfolio-filter px-6 py-2 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 font-medium transition-colors"
+                    data-filter="mobile">Mobile</button>
+                <button
+                    class="portfolio-filter px-6 py-2 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 font-medium transition-colors"
+                    data-filter="web">Web</button>
+                <button
+                    class="portfolio-filter px-6 py-2 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 font-medium transition-colors"
+                    data-filter="ai">AI</button>
+            </div>
+
+            <!-- Portfolio Grid -->
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- OpenListings Project -->
+                <div class="portfolio-item group relative bg-gray-800 rounded-xl overflow-hidden hover:transform hover:scale-105 transition-all duration-300"
+                    data-category="mobile web">
+                    <div class="relative overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400&h=300&fit=crop"
+                            alt="OpenListings"
+                            class="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300">
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        </div>
+                        <div
+                            class="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div class="flex space-x-3">
+                                <a href="https://openlistings.org" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                                <a href="https://github.com/UsamaSarwar" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center space-x-2 mb-2">
+                            <span
+                                class="px-2 py-1 bg-primary-600/20 text-primary-300 rounded text-xs font-medium">Mobile</span>
+                            <span class="px-2 py-1 bg-blue-600/20 text-blue-300 rounded text-xs font-medium">Web</span>
+                        </div>
+                        <h3 class="text-xl font-bold mb-2 text-white">OpenListings</h3>
+                        <p class="text-gray-400 mb-4">A comprehensive platform for listing and discovering opportunities
+                            with advanced search and filtering capabilities.</p>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Flutter</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Firebase</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Node.js</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Connect Platform -->
+                <div class="portfolio-item group relative bg-gray-800 rounded-xl overflow-hidden hover:transform hover:scale-105 transition-all duration-300"
+                    data-category="web mobile">
+                    <div class="relative overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop"
+                            alt="Connect Platform"
+                            class="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300">
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        </div>
+                        <div
+                            class="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div class="flex space-x-3">
+                                <a href="https://connect.usama.dev" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                                <a href="https://github.com/UsamaSarwar" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center space-x-2 mb-2">
+                            <span class="px-2 py-1 bg-blue-600/20 text-blue-300 rounded text-xs font-medium">Web</span>
+                            <span
+                                class="px-2 py-1 bg-primary-600/20 text-primary-300 rounded text-xs font-medium">Mobile</span>
+                        </div>
+                        <h3 class="text-xl font-bold mb-2 text-white">Connect Platform</h3>
+                        <p class="text-gray-400 mb-4">A social networking platform designed to connect professionals and
+                            foster meaningful relationships in the tech industry.</p>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">React</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Next.js</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">MongoDB</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AlShaafi Healthcare -->
+                <div class="portfolio-item group relative bg-gray-800 rounded-xl overflow-hidden hover:transform hover:scale-105 transition-all duration-300"
+                    data-category="mobile ai">
+                    <div class="relative overflow-hidden">
+                        <img src="https://alshaafi.web.app/assets/logo-C4v9-vVv.png" alt="AlShaafi Healthcare"
+                            class="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300">
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        </div>
+                        <div
+                            class="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div class="flex space-x-3">
+                                <a href="https://alshaafi.web.app" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                                <a href="https://github.com/UsamaSarwar" target="_blank"
+                                    class="flex items-center justify-center w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full text-white hover:bg-white/30 transition-colors">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center space-x-2 mb-2">
+                            <span
+                                class="px-2 py-1 bg-primary-600/20 text-primary-300 rounded text-xs font-medium">Mobile</span>
+                            <span class="px-2 py-1 bg-green-600/20 text-green-300 rounded text-xs font-medium">AI</span>
+                        </div>
+                        <h3 class="text-xl font-bold mb-2 text-white">AlShaafi Healthcare</h3>
+                        <p class="text-gray-400 mb-4">AI-powered healthcare application providing symptom analysis,
+                            doctor consultations, and health monitoring features.</p>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Flutter</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">TensorFlow</span>
+                            <span class="px-3 py-1 bg-gray-700 text-gray-300 rounded-full text-sm">Python</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-12">
+                <a href="https://github.com/UsamaSarwar" target="_blank"
+                    class="inline-flex items-center px-6 py-3 border-2 border-primary-600 text-primary-400 hover:bg-primary-600 hover:text-white rounded-lg font-medium transition-all duration-300">
+                    <i class="fab fa-github mr-2"></i>
+                    View More on GitHub
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="py-20 bg-gray-800/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl sm:text-4xl font-bold mb-4">My <span
+                        class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Services</span>
+                </h2>
+                <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+                    Comprehensive solutions for your digital needs
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Mobile Development -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-mobile-alt text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">Mobile Development</h3>
+                        <p class="text-gray-400 mb-6">Cross-platform mobile applications using Flutter for iOS and
+                            Android with native performance.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Cross-platform development</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Native performance</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Custom UI/UX design</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>App store deployment</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">Starting at $2,000</div>
+                    </div>
+                </div>
+
+                <!-- Web Development -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-laptop-code text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">Web Development</h3>
+                        <p class="text-gray-400 mb-6">Modern web applications using React, Next.js, and cutting-edge
+                            technologies for optimal performance.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Responsive design</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>SEO optimization</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Performance optimization</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Modern frameworks</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">Starting at $1,500</div>
+                    </div>
+                </div>
+
+                <!-- AI Integration -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-brain text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">AI Integration</h3>
+                        <p class="text-gray-400 mb-6">Integrate artificial intelligence and machine learning
+                            capabilities into your applications.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Custom AI solutions</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Machine learning models</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Data analytics</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>API integration</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">Starting at $3,000</div>
+                    </div>
+                </div>
+
+                <!-- Cloud Solutions -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-cloud text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">Cloud Solutions</h3>
+                        <p class="text-gray-400 mb-6">Scalable cloud infrastructure and deployment solutions for your
+                            applications.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>AWS/GCP deployment</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Docker containerization</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>CI/CD pipelines</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Monitoring & scaling</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">Starting at $1,000</div>
+                    </div>
+                </div>
+
+                <!-- Consulting -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-lightbulb text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">Technical Consulting</h3>
+                        <p class="text-gray-400 mb-6">Expert advice on technology choices, architecture decisions, and
+                            project planning.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Technology assessment</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Architecture planning</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Code reviews</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Team training</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">$100/hour</div>
+                    </div>
+                </div>
+
+                <!-- Maintenance -->
+                <div
+                    class="service-card group bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-primary-500/50 transition-all duration-300 transform hover:scale-105">
+                    <div class="text-center">
+                        <div
+                            class="w-16 h-16 bg-primary-600/20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-primary-600/30 transition-colors">
+                            <i class="fas fa-tools text-2xl text-primary-400"></i>
+                        </div>
+                        <h3 class="text-xl font-bold mb-4">Maintenance & Support</h3>
+                        <p class="text-gray-400 mb-6">Ongoing maintenance, updates, and support for your applications
+                            and systems.</p>
+                        <ul class="text-sm text-gray-300 space-y-2 mb-6">
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Bug fixes & updates</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Performance monitoring</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>Security updates</li>
+                            <li><i class="fas fa-check text-primary-500 mr-2"></i>24/7 support</li>
+                        </ul>
+                        <div class="text-primary-400 font-bold text-lg">$500/month</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-20 bg-gray-900">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl sm:text-4xl font-bold mb-4">What <span
+                        class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Clients
+                        Say</span></h2>
+                <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+                    Trusted by businesses and developers worldwide
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Testimonial 1 -->
+                <div
+                    class="bg-gray-800/80 backdrop-blur-sm rounded-xl p-6 border border-gray-700 hover:border-primary-500/50 transition-all duration-300">
+                    <div class="flex items-center space-x-1 mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-gray-300 mb-6 italic">"Usama delivered an exceptional Flutter app that exceeded our
+                        expectations. His attention to detail and technical expertise made the entire process smooth and
+                        efficient."</p>
+                    <div class="flex items-center space-x-3">
+                        <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=50&h=50&fit=crop&crop=face"
+                            alt="Client" class="w-12 h-12 rounded-full">
+                        <div>
+                            <div class="font-semibold text-white">Sarah Johnson</div>
+                            <div class="text-sm text-gray-400">CEO, TechStart Inc.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div
+                    class="bg-gray-800/80 backdrop-blur-sm rounded-xl p-6 border border-gray-700 hover:border-primary-500/50 transition-all duration-300">
+                    <div class="flex items-center space-x-1 mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-gray-300 mb-6 italic">"Working with Usama was a game-changer for our business. His AI
+                        integration solutions helped us automate processes and improve efficiency significantly."</p>
+                    <div class="flex items-center space-x-3">
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=50&h=50&fit=crop&crop=face"
+                            alt="Client" class="w-12 h-12 rounded-full">
+                        <div>
+                            <div class="font-semibold text-white">Michael Chen</div>
+                            <div class="text-sm text-gray-400">CTO, Innovation Labs</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div
+                    class="bg-gray-800/80 backdrop-blur-sm rounded-xl p-6 border border-gray-700 hover:border-primary-500/50 transition-all duration-300">
+                    <div class="flex items-center space-x-1 mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-gray-300 mb-6 italic">"Highly professional and skilled developer. Usama's expertise
+                        in cross-platform development saved us time and resources while delivering a top-quality
+                        product."</p>
+                    <div class="flex items-center space-x-3">
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop&crop=face"
+                            alt="Client" class="w-12 h-12 rounded-full">
+                        <div>
+                            <div class="font-semibold text-white">David Rodriguez</div>
+                            <div class="text-sm text-gray-400">Founder, Digital Solutions</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-gray-800/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl sm:text-4xl font-bold mb-4">Let's Work <span
+                        class="bg-gradient-to-r from-primary-400 to-purple-400 bg-clip-text text-transparent">Together</span>
+                </h2>
+                <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+                    Have a project in mind? Let's discuss how I can help bring your ideas to life
+                </p>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-12">
+                <!-- Contact Form -->
+                <div class="bg-gray-800/80 backdrop-blur-sm rounded-xl p-8 border border-gray-700">
+                    <form id="contact-form" class="space-y-6">
+                        <div class="grid md:grid-cols-2 gap-6">
+                            <div>
+                                <label for="name" class="block text-sm font-medium text-gray-300 mb-2">Name</label>
+                                <input type="text" id="name" name="name" required
+                                    class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
+                                    placeholder="Your Name">
+                            </div>
+                            <div>
+                                <label for="email" class="block text-sm font-medium text-gray-300 mb-2">Email</label>
+                                <input type="email" id="email" name="email" required
+                                    class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
+                                    placeholder="your@email.com">
+                            </div>
+                        </div>
+                        <div>
+                            <label for="subject" class="block text-sm font-medium text-gray-300 mb-2">Subject</label>
+                            <input type="text" id="subject" name="subject" required
+                                class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
+                                placeholder="Project Discussion">
+                        </div>
+                        <div>
+                            <label for="message" class="block text-sm font-medium text-gray-300 mb-2">Message</label>
+                            <textarea id="message" name="message" rows="6" required
+                                class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors resize-none"
+                                placeholder="Tell me about your project..."></textarea>
+                        </div>
+                        <button type="submit"
+                            class="w-full px-8 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 focus:ring-offset-gray-800">
+                            <i class="fas fa-paper-plane mr-2"></i>
+                            Send Message
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Contact Info -->
+                <div class="space-y-8">
+                    <div class="flex items-start space-x-4">
+                        <div
+                            class="flex-shrink-0 w-12 h-12 bg-primary-600/20 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-map-marker-alt text-primary-400"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-lg font-semibold text-white mb-2">Location</h3>
+                            <p class="text-gray-400">Pakistan 🇵🇰<br>Available for Remote Work Globally</p>
+                        </div>
+                    </div>
+
+                    <div class="flex items-start space-x-4">
+                        <div
+                            class="flex-shrink-0 w-12 h-12 bg-primary-600/20 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-envelope text-primary-400"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-lg font-semibold text-white mb-2">Email</h3>
+                            <a href="mailto:contact@usama.dev"
+                                class="text-gray-400 hover:text-primary-400 transition-colors">contact@usama.dev</a>
+                        </div>
+                    </div>
+
+                    <div class="flex items-start space-x-4">
+                        <div
+                            class="flex-shrink-0 w-12 h-12 bg-primary-600/20 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-phone text-primary-400"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-lg font-semibold text-white mb-2">Phone</h3>
+                            <a href="tel:+923100007773"
+                                class="text-gray-400 hover:text-primary-400 transition-colors">+92 310 000 7773</a>
+                        </div>
+                    </div>
+
+                    <div class="flex items-start space-x-4">
+                        <div
+                            class="flex-shrink-0 w-12 h-12 bg-primary-600/20 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-clock text-primary-400"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-lg font-semibold text-white mb-2">Response Time</h3>
+                            <p class="text-gray-400">Usually within 24 hours</p>
+                        </div>
+                    </div>
+
+                    <!-- Social Links -->
+                    <div class="pt-6">
+                        <h3 class="text-lg font-semibold text-white mb-4">Connect With Me</h3>
+                        <div class="flex space-x-4">
+                            <a href="https://github.com/UsamaSarwar" target="_blank"
+                                class="w-10 h-10 bg-gray-700 hover:bg-primary-600 rounded-lg flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300 transform hover:scale-110">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="https://linkedin.com/in/UsamaSarwarPro" target="_blank"
+                                class="w-10 h-10 bg-gray-700 hover:bg-primary-600 rounded-lg flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300 transform hover:scale-110">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
+                            <a href="https://twitter.com/UsamaSarwarPro" target="_blank"
+                                class="w-10 h-10 bg-gray-700 hover:bg-primary-600 rounded-lg flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300 transform hover:scale-110">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="https://youtube.com/UsamaSarwar" target="_blank"
+                                class="w-10 h-10 bg-gray-700 hover:bg-primary-600 rounded-lg flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300 transform hover:scale-110">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                            <a href="https://instagram.com/UsamaSarwarPro" target="_blank"
+                                class="w-10 h-10 bg-gray-700 hover:bg-primary-600 rounded-lg flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300 transform hover:scale-110">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 border-t border-gray-800 py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Brand -->
+                <div class="lg:col-span-2">
+                    <div class="mb-6">
+                        <h3 class="text-xl font-bold text-white mb-4">
+                            <i class="fas fa-code text-primary-500 mr-2"></i>
+                            Usama Sarwar
+                        </h3>
+                        <p class="text-gray-400 max-w-md">
+                            Full-Stack Flutter Developer passionate about creating innovative solutions
+                            that empower businesses and communities worldwide.
+                        </p>
+                    </div>
+                    <div class="flex space-x-4">
+                        <a href="https://github.com/UsamaSarwar" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-github text-xl"></i>
+                        </a>
+                        <a href="https://linkedin.com/in/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="https://twitter.com/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="https://youtube.com/UsamaSarwar" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-youtube text-xl"></i>
+                        </a>
+                        <a href="https://instagram.com/UsamaSarwarPro" target="_blank"
+                            class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-instagram text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div>
+                    <h4 class="text-lg font-semibold text-white mb-4">Quick Links</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#home" class="text-gray-400 hover:text-white transition-colors">Home</a></li>
+                        <li><a href="#about" class="text-gray-400 hover:text-white transition-colors">About</a></li>
+                        <li><a href="#portfolio" class="text-gray-400 hover:text-white transition-colors">Portfolio</a>
+                        </li>
+                        <li><a href="#services" class="text-gray-400 hover:text-white transition-colors">Services</a>
+                        </li>
+                        <li><a href="#contact" class="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                    </ul>
+                </div>
+
+                <!-- Featured Projects -->
+                <div>
+                    <h4 class="text-lg font-semibold text-white mb-4">Featured Projects</h4>
+                    <ul class="space-y-2">
+                        <li><a href="https://openlistings.org" target="_blank"
+                                class="text-gray-400 hover:text-white transition-colors">OpenListings</a></li>
+                        <li><a href="https://connect.usama.dev" target="_blank"
+                                class="text-gray-400 hover:text-white transition-colors">Connect Platform</a></li>
+                        <li><a href="https://alshaafi.web.app" target="_blank"
+                                class="text-gray-400 hover:text-white transition-colors">AlShaafi Healthcare</a></li>
+                        <li><a href="https://github.com/UsamaSarwar" target="_blank"
+                                class="text-gray-400 hover:text-white transition-colors">GitHub Portfolio</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
+                <p class="text-gray-400 text-sm">
+                    &copy; 2025 Usama Sarwar. All rights reserved.
+                </p>
+                <p class="text-gray-400 text-sm mt-4 md:mt-0">
+                    Made with <i class="fas fa-heart text-red-500"></i> by Usama Sarwar
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+
+</html>

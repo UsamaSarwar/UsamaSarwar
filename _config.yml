@@ -1,5 +1,5 @@
-# Jekyll Configuration for GitHub Pages
-theme: jekyll-theme-cayman
+# GitHub Pages Configuration
+# Static site configuration - No Jekyll theme dependencies
 
 # Site Settings
 title: "Usama Sarwar - Full-Stack Flutter Developer"
@@ -14,88 +14,64 @@ author:
   twitter: "UsamaSarwarPro"
   github: "UsamaSarwar"
   linkedin: "UsamaSarwarPro"
+  website: "https://usama.dev"
 
-# Social Media
-social:
-  - title: "GitHub"
-    url: "https://github.com/UsamaSarwar"
-  - title: "LinkedIn"
-    url: "https://linkedin.com/in/UsamaSarwarPro"
-  - title: "Twitter"
-    url: "https://twitter.com/UsamaSarwarPro"
-  - title: "YouTube"
-    url: "https://youtube.com/UsamaSarwar"
-
-# SEO Settings
+# SEO and Meta Information
 lang: en_US
 timezone: Asia/Karachi
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+# Site verification codes (add your verification codes here)
+# google_site_verification: "your-google-verification-code"
+# bing_site_verification: "your-bing-verification-code"
 
-# SEO Tag Settings
-seo:
-  type: Person
-  name: "Usama Sarwar"
-  links:
-    - "https://github.com/UsamaSarwar"
-    - "https://linkedin.com/in/UsamaSarwarPro"
-    - "https://twitter.com/UsamaSarwarPro"
-    - "https://usama.dev"
+# Social Media Links
+social_links:
+  github: "https://github.com/UsamaSarwar"
+  linkedin: "https://linkedin.com/in/UsamaSarwarPro"
+  twitter: "https://twitter.com/UsamaSarwarPro"
+  youtube: "https://youtube.com/UsamaSarwar"
+  instagram: "https://instagram.com/UsamaSarwarPro"
+  facebook: "https://facebook.com/UsamaSarwarPro"
+  website: "https://usama.dev"
+  email: "contact@usama.dev"
+  whatsapp: "https://wa.me/923100007773"
 
-# Analytics (uncomment and add your tracking ID)
-# google_analytics: G-XXXXXXXXXX
+# Professional Information
+professional:
+  role: "Full-Stack Flutter Developer"
+  location: "Punjab, Pakistan"
+  experience_years: 5
+  specializations:
+    - "Flutter Development"
+    - "Cross-Platform Mobile Apps"
+    - "AI Integration"
+    - "Web Development"
+    - "Open Source"
 
-# Build Settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
+# Analytics and Tracking
+# google_analytics: "G-XXXXXXXXXX"
+# google_tag_manager: "GTM-XXXXXXX"
 
-# Exclude files
+# GitHub Pages Build Settings
+plugins: []
+
+# File exclusions
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - .gitignore
-  - README.md
+  - "node_modules/"
+  - "*.log"
+  - ".git/"
+  - ".gitignore"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor/"
 
-# Include files
+# Include static assets
 include:
-  - _pages
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      author: "Usama Sarwar"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "default"
-
-# Custom Variables
-show_downloads: false
-show_excerpts: true
-
-# GitHub Metadata
-repository: UsamaSarwar/UsamaSarwar
-github:
-  is_project_page: false
-  is_user_page: true
+  - "images/"
+  - "*.html"
+  - "*.css"
+  - "*.js"
+  - "*.png"
+  - "*.ico"
+  - "favicon.png"

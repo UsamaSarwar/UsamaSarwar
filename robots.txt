@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://usamasarwar.github.io/UsamaSarwar/sitemap.xml
+
+# Block access to specific files
+Disallow: /script.js
+Disallow: /style.css
+Disallow: /.nojekyll
+Disallow: /_config.yml

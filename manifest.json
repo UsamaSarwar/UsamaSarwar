@@ -1,0 +1,39 @@
+{
+    "name": "Usama Sarwar - Full-Stack Flutter Developer",
+    "short_name": "Usama Sarwar",
+    "description": "Professional Software Engineer expert at cross-platform Flutter App Development, Community Builder & Open Source Advocate empowering businesses through innovative technology solutions.",
+    "start_url": "/UsamaSarwar/",
+    "display": "standalone",
+    "background_color": "#0D1117",
+    "theme_color": "#9F7AEA",
+    "orientation": "portrait-primary",
+    "scope": "/UsamaSarwar/",
+    "lang": "en",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "portfolio",
+        "developer",
+        "technology"
+    ],
+    "screenshots": [
+        {
+            "src": "images/coding.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "label": "Usama Sarwar Portfolio Homepage"
+        }
+    ]
+}
