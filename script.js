@@ -97,6 +97,7 @@ function initializeThemeToggle() {
 function initializeMobileMenu() {
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
+    const hamburgerLines = mobileMenuButton?.querySelectorAll('.hamburger-line');
 
     if (mobileMenuButton && mobileMenu) {
         mobileMenuButton.addEventListener('click', function () {
@@ -114,6 +115,13 @@ function initializeMobileMenu() {
         mobileMenu.classList.remove('hidden');
         mobileMenu.classList.add('animate-fade-in');
         document.body.style.overflow = 'hidden';
+
+        // Animate hamburger to X
+        if (hamburgerLines && hamburgerLines.length >= 3) {
+            hamburgerLines[0].style.transform = 'rotate(45deg) translate(6px, 6px)';
+            hamburgerLines[1].style.opacity = '0';
+            hamburgerLines[2].style.transform = 'rotate(-45deg) translate(6px, -6px)';
+        }
     }
 
     // Export for external use
@@ -121,11 +129,33 @@ function initializeMobileMenu() {
         mobileMenu.classList.add('hidden');
         mobileMenu.classList.remove('animate-fade-in');
         document.body.style.overflow = '';
+
+        // Reset hamburger lines
+        if (hamburgerLines && hamburgerLines.length >= 3) {
+            hamburgerLines[0].style.transform = 'none';
+            hamburgerLines[1].style.opacity = '1';
+            hamburgerLines[2].style.transform = 'none';
+        }
     };
 
     // Close mobile menu when clicking outside
     document.addEventListener('click', function (e) {
         if (!mobileMenu.contains(e.target) && !mobileMenuButton.contains(e.target)) {
+            window.closeMobileMenu();
+        }
+    });
+
+    // Close menu when clicking on navigation links
+    const mobileNavLinks = document.querySelectorAll('.mobile-nav-link');
+    mobileNavLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            setTimeout(() => window.closeMobileMenu(), 300); // Small delay for smooth transition
+        });
+    });
+
+    // Close on escape key
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
             window.closeMobileMenu();
         }
     });
