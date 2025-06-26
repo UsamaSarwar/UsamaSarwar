@@ -1,0 +1,64 @@
+name: ❓ Question
+description: Ask a question about the project
+title: "[Question]: "
+labels: ["question"]
+assignees:
+  - UsamaSarwar
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your question! 🤔
+
+        Please provide as much context as possible to help us understand and answer your question.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What would you like to know?
+      placeholder: I would like to understand...
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Provide any additional context, code snippets, or examples that might help us understand your question better.
+      placeholder: Here's what I'm trying to do...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Question Category
+      description: What category does your question fall into?
+      options:
+        - General Usage
+        - Technical Implementation
+        - Documentation
+        - Best Practices
+        - Troubleshooting
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: searched
+    attributes:
+      label: Have you searched existing issues?
+      description: Please check if your question has already been asked
+      options:
+        - label: I have searched existing issues and discussions
+          required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/UsamaSarwar/UsamaSarwar/blob/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
