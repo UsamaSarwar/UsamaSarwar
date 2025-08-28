@@ -63,13 +63,13 @@
 ### 🚀 Community Platforms
 
 <div align="left">
-<img align="right" alt="OpenListings" src="https://openlistings.org/logo.png" height="150" />
+<img align="right" alt="OpenListings" src="https://openlistings.web.app/logo.png" height="150" />
 
 **OpenListings** - *Giveaways, Gifts & Free Classifieds Platform*
 > A community-driven platform where you can freely list and discover products, services, and opportunities. Zero commissions, global reach, diverse categories including Services, Real Estate, Health & Beauty, Vehicles, Electronics, and more. Empowering freelancers and businesses worldwide.
 
 [![Android App](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.openlistings)
-[![Website](https://img.shields.io/badge/OpenListings-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://openlistings.org)
+[![Website](https://img.shields.io/badge/OpenListings-9F7AEA?logo=google-chrome&logoColor=ffffff)](https://openlistings.web.app)
 </div>
 
 <br clear="right"/>
