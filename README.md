@@ -699,11 +699,8 @@
 ## ✦ SKILLS &amp; TECHNOLOGIES
 
 
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Artificial Intelligence</h4>
-      <p style="margin: 8px 0 0 0;">
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Artificial Intelligence</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/LLM-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/RAG-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/n8n-121214?style=flat-square&logo=n8n&logoColor=FF6C37" />
@@ -712,14 +709,9 @@
         <img src="https://img.shields.io/badge/Prompt_Engineering-121214?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/AI_Orchestration-a855f7?style=flat-square&logo=googledeepmind&logoColor=white" />
       </p>
-    </td>
-  </tr>
-</table>
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Programming Languages</h4>
-      <p style="margin: 8px 0 0 0;">
+
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Programming Languages</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Dart-121214?style=flat-square&logo=dart&logoColor=0175C2" />
         <img src="https://img.shields.io/badge/Python-121214?style=flat-square&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/JavaScript-121214?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -727,16 +719,9 @@
         <img src="https://img.shields.io/badge/C%23-121214?style=flat-square&logo=csharp&logoColor=239120" />
         <img src="https://img.shields.io/badge/Java-121214?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
 
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Frameworks</h4>
-      <p style="margin: 8px 0 0 0;">
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Frameworks</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Flutter-121214?style=flat-square&logo=flutter&logoColor=02569B" />
         <img src="https://img.shields.io/badge/React.js-121214?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-121214?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -746,29 +731,17 @@
         <img src="https://img.shields.io/badge/Shopify-121214?style=flat-square&logo=shopify&logoColor=96BF48" />
         <img src="https://img.shields.io/badge/WooCommerce-121214?style=flat-square&logo=woocommerce&logoColor=96588A" />
       </p>
-    </td>
-  </tr>
-</table>
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Mobile Development</h4>
-      <p style="margin: 8px 0 0 0;">
+
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Mobile Development</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Android-121214?style=flat-square&logo=android&logoColor=3DDC84" />
         <img src="https://img.shields.io/badge/iOS-121214?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/Xcode-121214?style=flat-square&logo=xcode&logoColor=147EFB" />
         <img src="https://img.shields.io/badge/Android_Studio-121214?style=flat-square&logo=androidstudio&logoColor=3DDC84" />
       </p>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
 
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Technology, Tools &amp; Infrastructure</h4>
-      <p style="margin: 8px 0 0 0;">
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Technology, Tools &amp; Infrastructure</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Firebase-121214?style=flat-square&logo=firebase&logoColor=FFCA28" />
         <img src="https://img.shields.io/badge/GCP-121214?style=flat-square&logo=googlecloud&logoColor=4285F4" />
         <img src="https://img.shields.io/badge/Git-121214?style=flat-square&logo=git&logoColor=F05032" />
@@ -777,44 +750,27 @@
         <img src="https://img.shields.io/badge/Trello-121214?style=flat-square&logo=trello&logoColor=0079BF" />
         <img src="https://img.shields.io/badge/Google_Workspace-121214?style=flat-square&logo=google&logoColor=4285F4" />
       </p>
-    </td>
-  </tr>
-</table>
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Architecture</h4>
-      <p style="margin: 8px 0 0 0;">
+
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Architecture</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/REST_APIs-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/MVVM-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/MVC-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/RESTful_Architectures-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/Solution_Architecture-121214?style=flat-square" />
       </p>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
 
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Design &amp; UI/UX</h4>
-      <p style="margin: 8px 0 0 0;">
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Design &amp; UI/UX</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Photoshop-121214?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
         <img src="https://img.shields.io/badge/Illustrator-121214?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
         <img src="https://img.shields.io/badge/After_Effects-121214?style=flat-square&logo=adobeaftereffects&logoColor=CF96FD" />
         <img src="https://img.shields.io/badge/Figma-121214?style=flat-square&logo=figma&logoColor=F24E1E" />
         <img src="https://img.shields.io/badge/Canva-121214?style=flat-square&logo=canva&logoColor=00C4CC" />
       </p>
-    </td>
-  </tr>
-</table>
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Structural Languages</h4>
-      <p style="margin: 8px 0 0 0;">
+
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Structural Languages</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/HTML5-121214?style=flat-square&logo=html5&logoColor=E34F26" />
         <img src="https://img.shields.io/badge/CSS3-121214?style=flat-square&logo=css3&logoColor=1572B6" />
         <img src="https://img.shields.io/badge/SQL-121214?style=flat-square" />
@@ -824,16 +780,9 @@
         <img src="https://img.shields.io/badge/Markdown-121214?style=flat-square&logo=markdown&logoColor=white" />
         <img src="https://img.shields.io/badge/Mermaid-121214?style=flat-square&logo=mermaid&logoColor=white" />
       </p>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
 
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Industry Knowledge</h4>
-      <p style="margin: 8px 0 0 0;">
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Industry Knowledge</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/E--Commerce-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/Project_Management-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/IT_Consulting-121214?style=flat-square" />
@@ -841,14 +790,9 @@
         <img src="https://img.shields.io/badge/Entrepreneurship-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/Start--up_Leadership-121214?style=flat-square" />
       </p>
-    </td>
-  </tr>
-</table>
-<table align="left" style="min-width: 380px; width: 49%; margin-bottom: 15px;">
-  <tr>
-    <td style="border-radius: 12px; padding: 15px; background: #0d1117; vertical-align: top; height: 130px;">
-      <h4 style="margin: 0; color: #ffffff;">Other Skills</h4>
-      <p style="margin: 8px 0 0 0;">
+
+<h4 style="margin-top: 20px; margin-bottom: 8px; color: #ffffff;">Other Skills</h4>
+<p style="margin-bottom: 15px;">
         <img src="https://img.shields.io/badge/Video_Editing-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/Motion_Graphics-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/Animation-121214?style=flat-square" />
@@ -857,12 +801,7 @@
         <img src="https://img.shields.io/badge/SMM-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/CRM-121214?style=flat-square" />
       </p>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
 
----
 
 ## ✦ EDUCATION &amp; CERTIFICATIONS
 
