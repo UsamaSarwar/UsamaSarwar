@@ -808,11 +808,11 @@
       <p style="margin: 8px 0 0 0;">
         <img src="https://img.shields.io/badge/LLM-121214?style=flat-square" />
         <img src="https://img.shields.io/badge/RAG-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/n8n-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/n8n-121214?style=flat-square&logo=n8n&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vertex_AI-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prompt_Engineering-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Orchestration-a855f7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vertex_AI-121214?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prompt_Engineering-121214?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Orchestration-a855f7?style=flat-square&logo=googledeepmind&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -823,12 +823,12 @@
     <td style="padding: 15px; background: #0d1117;">
       <h4 style="margin: 0; color: #ffffff;">Programming Languages</h4>
       <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Dart-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/C++-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%23-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dart-121214?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-121214?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-121214?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-121214?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-121214?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-121214?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -839,13 +839,14 @@
     <td style="padding: 15px; background: #0d1117;">
       <h4 style="margin: 0; color: #ffffff;">Frameworks</h4>
       <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Flutter-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/React.js-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Django-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flask-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Shopify-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flutter-121214?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-121214?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-121214?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-121214?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-121214?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-121214?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shopify-121214?style=flat-square&logo=shopify&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-121214?style=flat-square&logo=woocommerce&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -854,17 +855,121 @@
 <table width="100%">
   <tr>
     <td style="padding: 15px; background: #0d1117;">
-      <h4 style="margin: 0; color: #ffffff;">Tools &amp; Infrastructure</h4>
+      <h4 style="margin: 0; color: #ffffff;">Mobile Development</h4>
       <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Firebase-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/GCP-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Git-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub-121214?style=flat-square" />
-        <img src="https://img.shields.io/badge/Jira-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Android-121214?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/iOS-121214?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Xcode-121214?style=flat-square&logo=xcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Studio-121214?style=flat-square&logo=androidstudio&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+<br/>
+
+<details>
+  <summary style="cursor: pointer; padding: 12px; color: #a855f7; font-weight: bold; font-family: monospace; font-size: 14px; background: #0d1117; border: 1px solid #30363d; border-radius: 6px; text-align: center;">✦ SHOW MORE TECH SKILLS (6 MORE CATEGORIES)</summary>
+  <br/>
+
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Technology, Tools &amp; Infrastructure</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/Firebase-121214?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-121214?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-121214?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-121214?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jira-121214?style=flat-square&logo=jira&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trello-121214?style=flat-square&logo=trello&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Workspace-121214?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Architecture</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/REST_APIs-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/MVVM-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/MVC-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/RESTful_Architectures-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Solution_Architecture-121214?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Design &amp; UI/UX</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/Photoshop-121214?style=flat-square&logo=adobephotoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/Illustrator-121214?style=flat-square&logo=adobeillustrator&logoColor=white" />
+        <img src="https://img.shields.io/badge/After_Effects-121214?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-121214?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-121214?style=flat-square&logo=canva&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Structural Languages</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/HTML5-121214?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-121214?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/NoSQL-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/JSON-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/XML-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Markdown-121214?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mermaid-121214?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Industry Knowledge</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/E--Commerce-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Project_Management-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/IT_Consulting-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Business_Intelligence-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Entrepreneurship-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Start--up_Leadership-121214?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background: #0d1117;">
+      <h4 style="margin: 0; color: #ffffff;">Other Skills</h4>
+      <p style="margin: 8px 0 0 0;">
+        <img src="https://img.shields.io/badge/Video_Editing-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Motion_Graphics-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Animation-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/Digital_Marketing-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/SEO-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/SMM-121214?style=flat-square" />
+        <img src="https://img.shields.io/badge/CRM-121214?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
@@ -935,10 +1040,6 @@
 ## ✦ ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=9ca3af" alt="GitHub Stats" width="100%" style="max-width: 500px;" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsamaSarwar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=9ca3af" alt="Top Languages" width="100%" style="max-width: 500px;" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=UsamaSarwar&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" alt="GitHub Streak" width="100%" style="max-width: 500px;" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsamaSarwar&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" style="max-width: 550px;" />
